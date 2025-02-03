@@ -1,32 +1,7 @@
-The Project Gutenberg EBook of Village Folk-Tales of Ceylon (Volume 3 of 3), by 
-H. Parker
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-Title: Village Folk-Tales of Ceylon (Volume 3 of 3)
-
-Author: H. Parker
-
-Release Date: February 14, 2019 [EBook #58889]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK VILLAGE FOLK-TALES OF CEYLON, VOL 3 ***
+*** START OF THE PROJECT GUTENBERG EBOOK 58889 ***
 
 
 
-
-Produced by Jeroen Hellingman and the Online Distributed
-Proofreading Team at http://www.pgdp.net/ for Project
-Gutenberg (This file was produced from images generously
-made available by The Internet Archive/American Libraries.)
 
 
 
@@ -124,7 +99,7 @@ STORIES OF THE LOWER CASTES
     210  The Story of a Siwurala                     141
     211  How the Poor Man became Wealthy             144
     212  The Story of Madampe-rala                   146
-    213  Æwariyakka                                  149
+    213  Ã†wariyakka                                  149
     214  The Horikadaya Story                        152
     215  The Story of Bahu-Bhutaya                   155
     216  The Story of Golu-Bayiya                    158
@@ -628,7 +603,7 @@ all but one thong; the antelope burst this and escaped. The jackal
 is not introduced into this version, which being illustrated in the
 early Bharahat reliefs is of earlier date than 250 B.C.
 
-In Le Pantcha-Tantra of the Abbé Dubois, a crow, a rat, a turtle,
+In Le Pantcha-Tantra of the AbbÃ© Dubois, a crow, a rat, a turtle,
 and a gazelle formed a friendship together. When the gazelle was
 caught the rat brought others and gnawed through the nets and saved
 it. Afterwards when the rat and turtle were likely to be seized, the
@@ -694,7 +669,7 @@ of verse:--
 
 They dried and dried until they shrank; my children on the rock
 I've slain.
-King Sakra's eyes divine beheld; he rainèd down a flowery rain.
+King Sakra's eyes divine beheld; he rainÃ¨d down a flowery rain.
 Then in the very form they had, a rock was filled with flowers again;
 But crying, "Son! My callow ones!" your mother called to you in vain.
 
@@ -1057,7 +1032,7 @@ to curtail their supply of meat, informed both the lion and bull that
 the other intended to kill it. When the bull approached the lion they
 had a long fight in which the lion was victorious. The same story
 is given in the Katha Sarit Sagara (Tawney), vol. ii, p. 27. In Le
-Pantcha-Tantra of the Abbé Dubois, p. 30, the story is nearly the same.
+Pantcha-Tantra of the AbbÃ© Dubois, p. 30, the story is nearly the same.
 
 In Sagas from the Far East, p. 192, a lioness before dying advised her
 cub and a calf she had reared to live together in peace. A fox which
@@ -1937,7 +1912,7 @@ at the city.
 
 In A. von Schiefner's Tibetan Tales derived from Indian Sources
 (Ralston), p. 129, the widow of a son of the King of Videha, who had a
-son called Bahvannapana, was given in marriage by the King of Pañcala,
+son called Bahvannapana, was given in marriage by the King of PaÃ±cala,
 her father, to his Purohita or spiritual adviser. The Purohita one day
 heard a Brahmana predict when he heard a cock crow near the house, that
 the person who ate its flesh would become King. He therefore killed
@@ -2170,15 +2145,15 @@ NO. 193
 THE STORY OF BATMASURA [45]
 
 
-In a certain country there are a God Îswara (Siva) and a Princess
-(Uma), it is said. That God Îswara was a good soothsayer.
+In a certain country there are a God ÃŽswara (Siva) and a Princess
+(Uma), it is said. That God ÃŽswara was a good soothsayer.
 
 News of it having reached another country, a man called Batmasura came
 to learn soothsaying. Having come and been there a long time he learnt
 soothsaying. That Batmasura who was learning it went to his village.
 
 Having gone and been there a long time, he again came near the God
-Îswara. When he came there the God Îswara was not at home; only the
+ÃŽswara. When he came there the God ÃŽswara was not at home; only the
 Princess was there. Having soaked the cloth which the Princess wore
 she had placed it in the veranda [before washing it].
 
@@ -2188,11 +2163,11 @@ she sat silently. Then Batmasura having come [after] drying the cloth,
 gave it into the hand of the Princess.
 
 After that, the Princess gave Batmasura the rice which had been cooked
-for the God Îswara. As Batmasura, having eaten the cooked rice, was
-finishing, the God Îswara came. After he came that Princess set about
-making ready food for the God Îswara.
+for the God ÃŽswara. As Batmasura, having eaten the cooked rice, was
+finishing, the God ÃŽswara came. After he came that Princess set about
+making ready food for the God ÃŽswara.
 
-Then the God Îswara asked at the hand of the Princess, "What is the
+Then the God ÃŽswara asked at the hand of the Princess, "What is the
 food so late to-day for?"
 
 After that, the Princess said, "That Batmasura having come, and that
@@ -2301,36 +2276,36 @@ After that Batmasura having come to the place where this woman stayed,
 when he looked there was neither woman nor children. Thereupon that
 one went away home.
 
-After that, the God Îswara went away to the house of the God
-Îswara. Having gone there, when a long time had passed Batmasura died,
-and having come was [re]-born inside the God Îswara.
+After that, the God ÃŽswara went away to the house of the God
+ÃŽswara. Having gone there, when a long time had passed Batmasura died,
+and having come was [re]-born inside the God ÃŽswara.
 
-Afterwards the God Îswara went near another deity and asked, "What
+Afterwards the God ÃŽswara went near another deity and asked, "What
 is this? My belly is enlarging!"
 
 That deity said, "Another living being (parana-karayek) has been
 caused to come inside your body. On account of it, you must split
 open your body, and throw it away."
 
-The God Îswara could not split open his body. Having said, "I shall
+The God ÃŽswara could not split open his body. Having said, "I shall
 die," he came home. Having come there, he ate medicine from another
 doctor; that also was no good.
 
-Again he went near that very deity. Having gone there, the God Îswara
+Again he went near that very deity. Having gone there, the God ÃŽswara
 asked at the hand of that deity, "What, now then, shall I do for this?"
 
 Then the deity said, "There is nothing else to do; you must split
 your body."
 
-Then the God Îswara said, "When I have split my body shall I not
+Then the God ÃŽswara said, "When I have split my body shall I not
 be destroyed?"
 
 The deity said, "You will not be destroyed; your life will remain
 over."
 
-Afterwards, the God Îswara told him to split open his body. Having
+Afterwards, the God ÃŽswara told him to split open his body. Having
 split the body, when he looked there was a lump of flesh. He seized
-it and threw it away. After that, the God Îswara having become well,
+it and threw it away. After that, the God ÃŽswara having become well,
 went home.
 
 When a Lord (Buddhist monk) was coming with the begging-bowl, that
@@ -5037,7 +5012,7 @@ is not ours (apata nae)."
 
 Afterwards the Parrot and the rat having come near the Prince,
 [the rat] said, "I cut into seven boxes; there was one ring. When I
-gave it to the Parrot youngster (gira-pota­kayata) the Parrot said,
+gave it to the Parrot youngster (gira-potaÂ­kayata) the Parrot said,
 'It is not ours,'" he said.
 
 Then the Prince said, "Are there not other boxes?"
@@ -5768,7 +5743,7 @@ much pleased with the son-in-law. Afterwards [the man] came home.
 
 NO. 213
 
-ÆWARIYAKKA
+Ã†WARIYAKKA
 
 
 The first part of this story is a repetition, with little variation,
@@ -5782,7 +5757,7 @@ story continues:--
 Then the ship (raft) went to the place where the washerman-uncle
 was washing clothes. "Ane! Washerman-uncle, take me out," the
 boy said. He got him ashore, and after taking him asked, "What is
-your name?" "Hu­kiyanna" (He who calls "Hu"), he said. Well then,
+your name?" "HuÂ­kiyanna" (He who calls "Hu"), he said. Well then,
 calling him they went home. The woman who was in the house asked,
 "What is your name?" "Asiya," [129] he said.
 
@@ -5974,7 +5949,7 @@ trimmed so as to represent a demon, and stated that she had given
 birth to it. They placed the eggs in a pot (cruche) and set it afloat
 in a river, whence a King of a country lower down obtained it.
 
-In the same work, vol. i, p. 305, Sakra gave a Queen of Pañcala a
+In the same work, vol. i, p. 305, Sakra gave a Queen of PaÃ±cala a
 fruit, telling her that after eating it she would have a son.
 
 
@@ -7544,7 +7519,7 @@ by her, and the history of his mother. He brought his mother to the
 palace, and thanks to Kali's advice recovered his father, who had
 been spirited away by the Sapta-kanyas or Seven Divine Maids.
 
-In The Kathakoça (Tawney), p. 49, a Prince, who when an infant had been
+In The KathakoÃ§a (Tawney), p. 49, a Prince, who when an infant had been
 carried off and adopted by a Vidyadhara, afterwards saw his mother
 seated at a window, fell in love with her, and by the magical art of
 the Vidyadharas, which he had acquired, carried her off in an aerial
@@ -9191,8 +9166,8 @@ learnt how they had been tricked.
 
 NO. 235
 
-THE MONKEY AND THE BEGGAR, OR THE MONKEY APPUSIÑÑO AND
-THE BEGGAR BABASIÑÑO
+THE MONKEY AND THE BEGGAR, OR THE MONKEY APPUSIÃ‘Ã‘O AND
+THE BEGGAR BABASIÃ‘Ã‘O
 
 
 A certain Beggar having gone from village to village was earning a
@@ -9205,24 +9180,24 @@ For marrying and giving the Princess of the King of the country,
 the King began to seek Princes. At that time royal Princes not being
 anywhere in those countries, he stayed without doing anything (nikan).
 
-At that time the Monkey called Appusiñño asked Babasiñño the Beggar,
+At that time the Monkey called AppusiÃ±Ã±o asked BabasiÃ±Ã±o the Beggar,
 "Am I to arrange and give you an opportunity [for a marriage]?"
 
-Then Babasiñño said, "What is this you are saying, Appusiñño? For
+Then BabasiÃ±Ã±o said, "What is this you are saying, AppusiÃ±Ã±o? For
 you and for us what [wedding] feast!"
 
-Then Appusiñño said, "It doesn't matter to you. I will arrange and
+Then AppusiÃ±Ã±o said, "It doesn't matter to you. I will arrange and
 give it from somewhere or other."
 
-Having said thus, Appusiñño went to the royal house. At that time
-the King having seen Appusiñño, asked, "What have you come for?"
+Having said thus, AppusiÃ±Ã±o went to the royal house. At that time
+the King having seen AppusiÃ±Ã±o, asked, "What have you come for?"
 
-Then Appusiñño said, "The Mudaliyar [216] Babasiñño told me to go
+Then AppusiÃ±Ã±o said, "The Mudaliyar [216] BabasiÃ±Ã±o told me to go
 and ask for the bushel for measuring golden pounds. On that account
 I came."
 
 Then the King thinking, "Who is it, Bola, who is a rich man to that
-degree?" told him to ask a servant for it, and go. So Appusiñño,
+degree?" told him to ask a servant for it, and go. So AppusiÃ±Ã±o,
 asking a servant for it, went back [with it].
 
 [Afterwards] taking the golden pound which, having changed [their small
@@ -9230,26 +9205,26 @@ coins for it], they were hiding, and having glued it in the bushel
 so as not to be noticed, he handed over the bushel, with the golden
 pound also, at the royal house. Thereupon the King, having looked
 at the bushel, said, "Look here. A golden pound has been overlooked
-[217] in this. Appusiñño, take it away."
+[217] in this. AppusiÃ±Ã±o, take it away."
 
-Thereupon Appusiñño said, "Golden pounds like that are swept
+Thereupon AppusiÃ±Ã±o said, "Golden pounds like that are swept
 up into the various corners of the house of our Lord Mudaliyar
-Babasiñño. Because of it, what of that one!"
+BabasiÃ±Ã±o. Because of it, what of that one!"
 
 The King thought, "Maybe this person is a richer man than I!"
 
-The Lord Mudaliyar Babasiñño and Appusiñño stay in a hut enclosed
+The Lord Mudaliyar BabasiÃ±Ã±o and AppusiÃ±Ã±o stay in a hut enclosed
 with leaves. [218] There are deficiencies of goods for those persons,
 for cooking and eating; there are only the small cooking pot (muttiya)
 and the large cooking pot (appalla) [as their goods].
 
-On yet a day Appusiñño went running to the royal house. Having said
+On yet a day AppusiÃ±Ã±o went running to the royal house. Having said
 that the Lord Mudaliyar told him to go and ask for the bushel for
 measuring rupees, he asked for it.
 
-At that time the King asked Appusiñño, "Whence comes this money?"
+At that time the King asked AppusiÃ±Ã±o, "Whence comes this money?"
 
-Appusiñño said, "All is indeed the revenue which he receives from
+AppusiÃ±Ã±o said, "All is indeed the revenue which he receives from
 gardens, and grass fields, and rice fields."
 
 After that, he took away the vessel. At that time taking the rupee
@@ -9262,21 +9237,21 @@ take it away."
 Thereupon he says, "If one gather up rupees at home in that way there
 are many [there]. What of that one!"
 
-Appusiñño having gone, and having walked to the shops in the villages,
+AppusiÃ±Ã±o having gone, and having walked to the shops in the villages,
 [after] finding about a hundred old keys, returned. Having brought the
 keys, and having thoroughly cleaned them, and made them into a bunch
 of keys, he tied them at his waist. [After] tying them at his waist
 he went in the direction of the royal house. The King, having seen
-this bunch of keys, asked, "Whence, Appusiñño, keys to this extent?"
+this bunch of keys, asked, "Whence, AppusiÃ±Ã±o, keys to this extent?"
 
 "They are the keys of the cash-boxes in the wardrobes of the Lord
-Mudaliyar," he said. Having said it, Appusiñño said, "O Lord King,
+Mudaliyar," he said. Having said it, AppusiÃ±Ã±o said, "O Lord King,
 Your Majesty, will you, Sir, be angry at my speaking?"
 
 The King replied, "I am not angry at your speaking, or at your saying
 anything you want."
 
-Thereupon Appusiñño says, "Our Lord Mudaliyar having walked to every
+Thereupon AppusiÃ±Ã±o says, "Our Lord Mudaliyar having walked to every
 place in this country, there was not an opportunity (idak) [for a
 marriage] to be found." The Monkey informed the King that although
 during the little time that had passed he was poor, at present he
@@ -9287,31 +9262,31 @@ At that time the King said, "That there are signs of his wealth,
 I know. His caste and birth [219] I do not know. Hereafter (dewenu)
 having inquired [about them], I will say."
 
-Thereupon Appusiñño having gone into a multitude of villages, told
+Thereupon AppusiÃ±Ã±o having gone into a multitude of villages, told
 the men, "The King having sent messages and told you to come, will
-ask, 'Is Babasiñño a very wealthy person? Is he a person of good
+ask, 'Is BabasiÃ±Ã±o a very wealthy person? Is he a person of good
 lineage?' Then say, 'He is of a very good caste.'"
 
 After that, the King having summoned the Talipat fan men [220] who
-were in that country, made inquiry, "Is Babasiñño's house (i.e.,
+were in that country, made inquiry, "Is BabasiÃ±Ã±o's house (i.e.,
 lineage) good or bad?"
 
 The whole of them began to say, "He is a monied man, an overlord of
 lineage," [221] they said.
 
-After that, Appusiñño came once to the royal palace. At that time
-the King said to Appusiñño that he must see the bridegroom.
+After that, AppusiÃ±Ã±o came once to the royal palace. At that time
+the King said to AppusiÃ±Ã±o that he must see the bridegroom.
 
-Thereupon Appusiñño having gone home, and again having gone to the
-bazaar and bought a piece of soap, caused the Lord Mudaliyar Babasiñño
+Thereupon AppusiÃ±Ã±o having gone home, and again having gone to the
+bazaar and bought a piece of soap, caused the Lord Mudaliyar BabasiÃ±Ã±o
 to bathe.
 
-Again, the Monkey known as Appusiñño, splitting his head with a stone,
+Again, the Monkey known as AppusiÃ±Ã±o, splitting his head with a stone,
 went running to the royal house.
 
-Thereupon the King asked Appusiñño, "What has split your head?"
+Thereupon the King asked AppusiÃ±Ã±o, "What has split your head?"
 
-Appusiñño says, "The Lord Mudaliyar sought for the keys to get clothes
+AppusiÃ±Ã±o says, "The Lord Mudaliyar sought for the keys to get clothes
 to go somewhere or other. Out of my hand the keys were lost. On
 account of it having beaten me with a club and my head having been
 split, I came running here," he said.
@@ -9322,33 +9297,33 @@ out of them," he said.
 
 So having taken a good cloth in which gold work was put, he dressed
 him, and he having come to the royal house, the King became pleased
-with the Lord Mudaliyar Babasiñño; and having caused the naekat
+with the Lord Mudaliyar BabasiÃ±Ã±o; and having caused the naekat
 (planetary prognostics) to be looked at, settled to marry [him to his
 daughter]. Thereupon, having told the men who were in that country,
 and having decorated the city, he observed the [wedding] festival,
 having also been surrounded by much sound of the five instruments of
 music in an extremely agreeable manner.
 
-Well then, while they were going summoning the Princess to Babasiñño's
+Well then, while they were going summoning the Princess to BabasiÃ±Ã±o's
 own country, the Monkey through extreme delight ran jumping and jumping
 in front. While the Monkey was going thus, a party of boys who were
 causing certain goats to graze, having heard the noise of the five
 instruments of music, became afraid. At the time when they asked,
 "What is this?" "They are coming breaking up a country, upsetting
 a country. If ye are to save these goats, say they are the Lord
-Mudaliyar Babasiñño's," the Monkey said.
+Mudaliyar BabasiÃ±Ã±o's," the Monkey said.
 
 When they are going a little further, certain herdsmen who are looking
 after cattle having become afraid, at the time when they asked [what
 the noise was], "They are coming breaking up a country, upsetting a
 country. If ye are to escape say, 'We are causing the Lord Mudaliyar
-Babasiñño's cattle to graze,'" the Monkey said.
+BabasiÃ±Ã±o's cattle to graze,'" the Monkey said.
 
 When they are going a little further, certain men who are doing
 rice-field work having become afraid, at the time when they asked,
 "What is this noise?" he said, "They are coming breaking up a country,
 upsetting a country. If ye are to escape say, 'We are doing work in
-the Lord Mudaliyar Babasiñño's rice fields.'"
+the Lord Mudaliyar BabasiÃ±Ã±o's rice fields.'"
 
 At the whole of the aforesaid places the men observed the method
 which the Monkey said.
@@ -9356,16 +9331,16 @@ which the Monkey said.
 The Monkey saw during the time he was staying in the midst of the
 forest, a house in which is a Yaksani. As in that house there are
 riches, silver and gold, like a palace, and because there was nothing
-in Babasiñño's house, he thought of going there. Having thought it,
+in BabasiÃ±Ã±o's house, he thought of going there. Having thought it,
 and having left the bride and bridegroom and the whole of them to
-come in carts, and having said, "Come on this path," Appusiñño got
+come in carts, and having said, "Come on this path," AppusiÃ±Ã±o got
 in front, and having gone to the place where the Yaksani is, said,
 "Isn't there even news that they are coming breaking up a country,
 upsetting a country? The King is coming to behead you. Because of it,
 go to that stone well and get hid."
 
 Thereupon, the Yaksani having gone to the stone well, got hid. While
-she was hiding [in it], this Appusiñño having thrown stones [into it],
+she was hiding [in it], this AppusiÃ±Ã±o having thrown stones [into it],
 and having killed the Yaksani, swept the Yaksani's house, and when
 the party were coming was there.
 
@@ -9374,18 +9349,18 @@ and corn were there. Having said, "This one is a great rich person,
 indeed," while the servants and the Princess remained there the King
 came back to the city.
 
-But however much assistance the Monkey gave, Babasiñño having forgotten
+But however much assistance the Monkey gave, BabasiÃ±Ã±o having forgotten
 the whole of it did not even look whether they gave the Monkey to eat.
 
 Well then, while the party are staying there, one day, to look,
-"Does the Lord Mudaliyar Babasiñño regard me?" Appusiñño was getting
+"Does the Lord Mudaliyar BabasiÃ±Ã±o regard me?" AppusiÃ±Ã±o was getting
 false illness.
 
-At that time Babasiñño said, "What a vile remnant [222] is this! Take
+At that time BabasiÃ±Ã±o said, "What a vile remnant [222] is this! Take
 it and throw it away into the jungle."
 
 Thereupon the Monkey made visible and showed the absence (naetikama) of
-Babasiñño's good qualities (guna), bringing forward many circumstances
+BabasiÃ±Ã±o's good qualities (guna), bringing forward many circumstances
 [in proof of it. He said], "Putting [out of consideration] that I was
 of so much assistance, you said thus!" Having said, "Because of it,
 staying here is not proper," he went into the midst of the forest.
@@ -9971,7 +9946,7 @@ death. [232] By his doing thus, on account of his making this order
 [in the end] there was not a Minister for the King.
 
 After that, he caused notice to be given by tom-toms in the city for
-a person to come for the ministership (aemaeptiya­kama). Because they
+a person to come for the ministership (aemaeptiyaÂ­kama). Because they
 were not willing to taste death anybody was unwilling to do it.
 
 At last, a drunken cheat having the name Jobbuwa arrived. "Yahapati;
@@ -10651,7 +10626,7 @@ clothes box. Having gone there, when they came near the house of the
 Hettirala's daughter, [the Hettirala] having spoken to the Prince
 asking for the bundle of clothes, he unfastened it. When he looked,
 he saw that the horse-dung and mud were in the bundle of clothes,
-and much anger having gone to the Hettirala, he said, "Æ! Enemy,
+and much anger having gone to the Hettirala, he said, "Ã†! Enemy,
 what is this?"
 
 Thereupon the Prince says, "What, Hetti-elder-brother, are you
@@ -11403,9 +11378,9 @@ Werewolf in William of Palerne (E.E.T.S., ed. Skeat), on discovering
 that the child he was rearing was missing:
 
 
-    For reuliche (ruefully) gan he rore  ·  and rente al his hide,
-    And fret (gnawed) oft of the erthe  ·  and fel doun on swowe,
-    And made the most dool (sorrow)  ·  that man mizt diuise.
+    For reuliche (ruefully) gan he rore  Â·  and rente al his hide,
+    And fret (gnawed) oft of the erthe  Â·  and fel doun on swowe,
+    And made the most dool (sorrow)  Â·  that man mizt diuise.
 
 
 The English translation of this twelfth-century Romance is said to
@@ -12987,7 +12962,7 @@ narrow-mouthed phial stated that the one who entered it should have
 judgment in his favour. When the ghost transformed himself into "a
 small creature like an insect" and crept inside, the boy corked it
 up and ordered the Brahmana to throw it into the sea and repossess
-his home. The first part resembles a story in the Kathakoça (Tawney),
+his home. The first part resembles a story in the KathakoÃ§a (Tawney),
 p. 41, the interloper being a deity in it.
 
 In the well-known tale in the Arabian Nights (Lady Burton's ed.,
@@ -13404,26 +13379,26 @@ NO. 256
 THE THREE TRUTHS
 
 
-One day a Hyæna met a Goat by the way. He tells the Goat, "Before you
+One day a HyÃ¦na met a Goat by the way. He tells the Goat, "Before you
 move from this place you tell me three words which shall all be true,
 or I eat you."
 
 The Goat said, "You met me in this place. If you return, [and if] you
-reach the other Hyænas and tell them, 'I have met a Goat by the way,
+reach the other HyÃ¦nas and tell them, 'I have met a Goat by the way,
 but I did not kill him,' they will say, 'You are telling a lie.'"
 
-The Hyæna said, "It is true."
+The HyÃ¦na said, "It is true."
 
 The Goat said, "If I get out here myself, if I reach the other Goats
-at home, and I tell them, 'I met a Hyæna by the way, but he did not
+at home, and I tell them, 'I met a HyÃ¦na by the way, but he did not
 kill me,' they will say, 'You are telling a lie.'"
 
-The Hyæna said, "It is true."
+The HyÃ¦na said, "It is true."
 
 He said to him, "The third one is:--If you see us two talking about
 this matter you are not hungry."
 
-Then the Hyæna said, "Pass, and go your way. I am not hungry; if I
+Then the HyÃ¦na said, "Pass, and go your way. I am not hungry; if I
 were hungry we should not be here talking about it."
 
 
@@ -13908,7 +13883,7 @@ great many flies fell dead.
 In a little time his intoxication having evaporated his sense
 came. Thorough sense having come in that manner, when he looked
 round about he saw near him the quantity (rasiya) of flies that had
-died. While he was there, thinking, "Æyi, Bola, at one blow with my
+died. While he was there, thinking, "Ã†yi, Bola, at one blow with my
 hand they were deprived of life to this extent; isn't it so?" a very
 foolish man who dwelt in that village came to go near this Sokka.
 
@@ -15135,7 +15110,7 @@ which when the God Siva and his wife Parvati saw a poverty-stricken
 Brahmana on his way home, and the latter wished to give him riches,
 Siva remarked that Brahma had not written on his face [at his birth]
 that he must enjoy wealth. To test this, Parvati threw down on the
-path a heap of a thousand gold muhrs (£1,500). When the Brahmana
+path a heap of a thousand gold muhrs (Â£1,500). When the Brahmana
 got within ten yards of it, he was suddenly struck by the idea that
 he would see if he could walk along like a blind man, so he shut his
 eyes, and did not open them until he had gone past the money.
@@ -15159,7 +15134,7 @@ to a feast at which he was waited on by his daughter, the disgraced
 Princess, whom he did not recognise. At the end of it she told him
 who they were, and he promised to give the kingdom to her husband.
 
-In The Kathakoça (Tawney), p. 82, a Princess had as her companions
+In The KathakoÃ§a (Tawney), p. 82, a Princess had as her companions
 the daughters of a merchant and a gardener who were born on the same
 day as herself. When the Princess was married she requested that her
 two comrades might be married to the same young man, and this was done.
@@ -15614,7 +15589,7 @@ In Folk-Tales of Kashmir (Knowles), 2nd ed., p. 71, a cord placed
 round the neck of a Prince by the daughter of a sorceress changed him
 into a ram; when it was accidentally removed he became a Prince again.
 
-In The Kathakoça (Tawney), p. 38, a Vidyadhara gave a Prince the power
+In The KathakoÃ§a (Tawney), p. 38, a Vidyadhara gave a Prince the power
 of entering another body. When he utilised it, it was given out that
 he was dead. His spirit returned to his own body by its own volition.
 
@@ -15658,12 +15633,12 @@ I think are not included in Mr. Gunasekara's Grammar.
 In the nouns and pronouns a genitive form in ae or lae is often
 employed in both the singular and plural numbers. Thus, among numerous
 other instances, in the singular we have:--Diribari-Lakalae gedara, the
-house of Diribari-Laka (i, 177, line 14); nænda­mamalae gedara giyaya,
+house of Diribari-Laka (i, 177, line 14); nÃ¦ndaÂ­mamalae gedara giyaya,
 [they] went to the house of [his] mother-in-law and father-in-law (ii,
-404, line 14); unnæhælae akkalae gedara sitinawa mama dækka misa,
+404, line 14); unnÃ¦hÃ¦lae akkalae gedara sitinawa mama dÃ¦kka misa,
 tamuselae dihata nam giye nae, except that I saw [he] is at the
 gentleman's elder sister's house, [he] did not go to your quarter,
-indeed (ii, 214, variant); mi pætikkilae gamata gihin, having gone
+indeed (ii, 214, variant); mi pÃ¦tikkilae gamata gihin, having gone
 to the f. mouseling's village (i, 310, line 2); rassayae gedara,
 the rakshasa's house (iii, 122, note); umbalae gamata, to your
 village; ummbalae gedara, your house; umbalae piya-rajjuruwo, your
@@ -15677,13 +15652,13 @@ your flesh. (See also No. 207 below.)
 
 Hotae (vol. ii, 214, line 24) is perhaps a special plural form. I
 was informed that the word gara, a kind of demon, has two plurals,
-garayo and gærae; I do not remember other instances.
+garayo and gÃ¦rae; I do not remember other instances.
 
 As a termination, ae usually takes the place of a in such words as
 kawaddae, [328] kawdae, kiyatadae, kohedae, kohomadae, mokaddae,
 mokak weladae, mokatadae, monawadae; we have also such forms as,
-awæn passe, baendæn passe, damamuyæyi, giyæn pasu, issaræhæta,
-kapan­neyæyi, nikæ hitapan, palapannæyi, weyæyi, wunæyin pasu.
+awÃ¦n passe, baendÃ¦n passe, damamuyÃ¦yi, giyÃ¦n pasu, issarÃ¦hÃ¦ta,
+kapanÂ­neyÃ¦yi, nikÃ¦ hitapan, palapannÃ¦yi, weyÃ¦yi, wunÃ¦yin pasu.
 
 There are numerous instances in which a noun or pronoun as the subject
 takes an instrumental position, always governed by wisin or wihin,
@@ -15706,7 +15681,7 @@ veda says; line 31: Ewita raja wisin noyek tanantra di, thereupon
 Vol. ii, 137, line 3: Kumariyak genat dunna rajjuruwoyi dewinnanseyi
 wihin, a princess brought and gave (by) the king and queen.
 
-Vol. ii, 147, line 5: Mama wisin dæn maranawaya, (by) I shall now kill
+Vol. ii, 147, line 5: Mama wisin dÃ¦n maranawaya, (by) I shall now kill
 [you].
 
 Vol. ii, 206, line 3: Purusaya wisin ... kiwaya, (by) the husband said.
@@ -15718,7 +15693,7 @@ Vol. iii, 22, line 12: Ayet nariya wisin gona langata gihin, (by)
 the jackal having gone again near the bull.
 
 Other instances are: Anit badu horunda baena wisin dunna, the other
-goods (by) the son-in-law gave to the thieves. Raja wisin æhæwwa,
+goods (by) the son-in-law gave to the thieves. Raja wisin Ã¦hÃ¦wwa,
 (by) the king asked. Raja wisin asa, (by) the king having heard
 [it]. Some examples are noted in the stories also.
 
@@ -15734,7 +15709,7 @@ instead of gaeniyek, a woman, but always minihek, a man. Similar
 forms are:--diwidenak, a leopardess; duwak, a daughter; eludenak,
 a f. goat; girawak, a parrot; kaputiyak, a f. crow; kellak, a girl;
 kenak, a person; kumarikawak, kumarikawiyak, kumariyak, a princess;
-manamaliyak, a bride; miminniyak, a f. mouse-deer; mi-pætikkiyak,
+manamaliyak, a bride; miminniyak, a f. mouse-deer; mi-pÃ¦tikkiyak,
 a f. mouseling; yaksaniyak, a yaksani.
 
 Similarly, in Mah. ii, 37, 159, we have dewiyaktomo; in Thup. (1901),
@@ -15745,12 +15720,12 @@ With regard to the general use of the word atin,--which, in order
 to retain the expression, I have translated, "at the hand of,"
 [329]--this has virtually the power of a postposition commonly meaning
 "to," "of" or "from," and more rarely "by." [330] The following
-are examples:--E miniha æhæwwa me gaeni atin, the man asked (of)
+are examples:--E miniha Ã¦hÃ¦wwa me gaeni atin, the man asked (of)
 this woman. E kumarayage kiri-appa atin kiwa, [he] told (to) the
 prince's grandfather. Sitanange gaeni atin kiwa, [he] told (to) the
-treasurer's wife. Welihinni me kolla atin æhæwwa, the f. bear asked
+treasurer's wife. Welihinni me kolla atin Ã¦hÃ¦wwa, the f. bear asked
 (of) this youth. E minissu atin rilawat illuwa, (from) the men the
-monkey also begged. Ura atin æhæwwa ara hat dena, (of) the boar asked
+monkey also begged. Ura atin Ã¦hÃ¦wwa ara hat dena, (of) the boar asked
 those seven. Gamarala ... ketta atin kiwa, the gamarala told (to)
 the girl.
 
@@ -15765,12 +15740,12 @@ in which "and" is represented by the particle yi or uyi, suffixed to
 each conjoined word. When the word ends in a vowel, yi is suffixed;
 when it terminates in a consonant, uyi, the pronunciation of this
 being practically wi. Some examples have been given in the stories;
-a few others are:--gætayi gediyi maluyi, immature fruits and [ripe]
+a few others are:--gÃ¦tayi gediyi maluyi, immature fruits and [ripe]
 fruits and flowers; hettiyage walatayi hettiyatayi, to the hettiya's
 slave and the hettiya; kolayi potuyi, leaves and bark; minihayi
-gaeniyi e bælliyi, the man and woman and the bitch; mol­gahayi
+gaeniyi e bÃ¦lliyi, the man and woman and the bitch; molÂ­gahayi
 wangediyayi kurahan-galayi bereyi, the rice pestle and rice mortar
-and millet stone (quern) and tom-tom; rilawayi pætiyayi ammayi, the
+and millet stone (quern) and tom-tom; rilawayi pÃ¦tiyayi ammayi, the
 monkey and youngster and [his] mother; talayi aluyi, sesame and ashes;
 udetayi haendaewatayi, in the morning and evening; yanawayi enawayi
 [they] are going and coming; duwekuyi putekuyi, a daughter and a son;
@@ -15783,8 +15758,8 @@ commonly written without conjunctions, as amma-appa, mother and father,
 (also, ammayi appayi or ammayi abuccayi); akko-nago, elder sisters and
 younger sisters; ayiyo-malayo, elder brothers and younger brothers;
 aet-maet, far and near; rae-dawal, night and day; hawaha-ude, evening
-and morning; at-kakul, hands and feet; gan­kumburu, villages and rice
-fields; ganu-denu, taking and giving; bat­malu, boiled rice and curry,
+and morning; at-kakul, hands and feet; ganÂ­kumburu, villages and rice
+fields; ganu-denu, taking and giving; batÂ­malu, boiled rice and curry,
 (but also batuyi maluyi).
 
 Usually when a particle, especially yi, is suffixed to a noun or
@@ -15804,12 +15779,12 @@ me nuwara hitapuwo okkama yaka kaewa, [a] yaka ate all those who
 stayed at this city. In vol. iii, 79, line 20, the same noun occurs
 in the form hitapuwanda, those who were [there]. At p. 370, line 6,
 we have pala tanbapuwa wagayak kanta dila, having given [him] a sort
-of vegetable stew to eat. See also uyapuwæn p. 428, line 12.
+of vegetable stew to eat. See also uyapuwÃ¦n p. 428, line 12.
 
 From another form of the participial adjective we have in vol. iii,
 66, line 38, redda allagattuwo, those who took hold of the cloth. In
-the same vol., p. 228, line 1, there is, mæricci minissu malawungen
-nækita ena ratakut ædda, dead men having arisen from the dead will
+the same vol., p. 228, line 1, there is, mÃ¦ricci minissu malawungen
+nÃ¦kita ena ratakut Ã¦dda, dead men having arisen from the dead will
 there be a country, also, to which they come? On p. 315, line 11,
 there is, ita wisalawu dutu dutuwange sit pina-wana ... salawak, a very
 spacious hall, which causes the minds of the spectators who saw it to
@@ -15819,9 +15794,9 @@ anituyi me sinat, for the beholders this dream, too, is inauspicious.
 There are several examples of a peculiar form of subjunctive, one of
 which has been given in vol. ii, 323, note 1. Some others are:--apage
 piya-rajjuruwo awotin umba kayi, should our father-king come [he]
-will eat you; e beheta e kumari atin dæmmotin, should the princess
+will eat you; e beheta e kumari atin dÃ¦mmotin, should the princess
 apply the medicine with [her] hand; kiri tikak biwotin misa, unless
-[I] should drink a little milk; yan wædak kiwuwotin, should [he] tell
+[I] should drink a little milk; yan wÃ¦dak kiwuwotin, should [he] tell
 [you] any work. In the work Swapna-malaya there are other similar
 expressions, such as, pibidunotin, pibidunahotin, dutotin, dutuwotina;
 the second of these exhibits the uncontracted form.
@@ -15831,9 +15806,9 @@ a past signification. As a present participle:--balla burana enawa,
 the dog comes growling; budiyana innakota, when [they] are sleeping;
 eka balana hitiya, [he] remained looking at it; kumaraya budiyana
 indala, the prince having been sleeping. With a past participial
-meaning:--atu mitiyak kadana issarahæta pænna, breaking a bundle of
-branches [he] sprang in front; ewwa kadana æwit, having come [after]
-plucking them; kændana æwidin, having come [after] calling [her]; okke
+meaning:--atu mitiyak kadana issarahÃ¦ta pÃ¦nna, breaking a bundle of
+branches [he] sprang in front; ewwa kadana Ã¦wit, having come [after]
+plucking them; kÃ¦ndana Ã¦widin, having come [after] calling [her]; okke
 isa tiyana budiya-gatta, placing [his] head on [her] waist-pocket,
 [he] slept; wastuwa hoyana enda, to come [after] seeking wealth.
 
@@ -15845,7 +15820,7 @@ gihun, guhin, gusin, gehun, gehun, ginun.
 
 I also here mention the marked avoidance of the use of the personal
 and possessive pronouns of the third person, and of the guttural n,
-the palatal ñ, and the cerebral n, as well as the employment of the
+the palatal Ã±, and the cerebral n, as well as the employment of the
 binduwa in the story No. 207, "The Turtle Prince," for all forms
 of mute n when followed by any consonant. Its use in this manner in
 this story, as well as in others sometimes, may indicate the origin
@@ -15881,12 +15856,12 @@ pronouns. The accompanying few examples show the want of uniformity
 in the arrangement; their order follows the position in which s occurs:
 
 
-    s--dt--ds--v--c. Ibba hat-awuruddak weli weli hitiya diya nætuwa,
+    s--dt--ds--v--c. Ibba hat-awuruddak weli weli hitiya diya nÃ¦tuwa,
     the turtle a seven-year having dried and dried up, stayed water
     without.
 
-    dt--qs--qi--r--o--v. Ewita e nuwara rajjuruwo wena nuwara­walwala
-    rajunda kæmata enda liyun æriyaya, at that time the city king to
+    dt--qs--qi--r--o--v. Ewita e nuwara rajjuruwo wena nuwaraÂ­walwala
+    rajunda kÃ¦mata enda liyun Ã¦riyaya, at that time the city king to
     other cities' kings for the eating to come, letters sent.
 
     dt--s--ds--o--v--i. Ewita berawaya issara wagema salli illuwaya
@@ -15898,7 +15873,7 @@ in the arrangement; their order follows the position in which s occurs:
     the great king for a war assistance having asked, another king
     letters sent.
 
-    r--dt--s--v. E kumarikawata dæn bohoma dawasaka hita pissu­rogayak
+    r--dt--s--v. E kumarikawata dÃ¦n bohoma dawasaka hita pissuÂ­rogayak
     saedila, for the princess, now many a day since, an insanity
     having been developed.
 
@@ -15906,7 +15881,7 @@ in the arrangement; their order follows the position in which s occurs:
     etc.," then, by dream, to the woman the dewatawa said, "For
     thee, etc."
 
-    dt--qo--i--v--qs. Itapasse rajjen palatakuyi ætek-barata wastuwayi
+    dt--qo--i--v--qs. Itapasse rajjen palatakuyi Ã¦tek-barata wastuwayi
     dewinnanseta dunna kumarayage piya-rajjuruwo, after that, from
     the kingdom a district and to a tusk-elephant-load wealth, to
     the queen gave the prince's father-king.
@@ -15921,13 +15896,13 @@ in the arrangement; their order follows the position in which s occurs:
 
 
 The following transliteration has been adopted in these texts, being
-the same as in the translations of the stories, with the exceptions æ,
+the same as in the translations of the stories, with the exceptions Ã¦,
 ae, and sa.
 
 
-    Initials:               a, a, i, i, u, u, e, e, o, o, au, æ, ae.
+    Initials:               a, a, i, i, u, u, e, e, o, o, au, Ã¦, ae.
     Gutturals:              ka, kha, ga, gha, na.
-    Palatals:               ca, cha, ja, jha, ña.
+    Palatals:               ca, cha, ja, jha, Ã±a.
     Cerebrals:              ta, tha, da, dha, na.
     Dentals:                ta, tha, da, dha, na.
     Labials:                pa, pha, ba, bha, ma.
@@ -15946,163 +15921,163 @@ NO. 81
 
 CONCERNING A ROYAL PRINCE AND A PRINCESS
 
-RAJA-KUMARAYAKUT KUMARIKAWAK GÆNA
+RAJA-KUMARAYAKUT KUMARIKAWAK GÃ†NA
 
 
 Ekomat eka nuwaraka raja kenekuyi waduwekuyi henayakuyi hitiyaya. Me
 tun denage pirimi daruwo tun denek sitiyaya. Me lamayi tun dena
-yodunak ipita nohot hatara gawuwakin ipita guru­warayek la[n]gata akuru
-iganaganda hæriyaya. Me tun dena eka aewara nuwarin pitat-wela akurata
-giyama ara raja-kumarayat hena­kollat denna guhin akuru kiyala enakota
+yodunak ipita nohot hatara gawuwakin ipita guruÂ­warayek la[n]gata akuru
+iganaganda hÃ¦riyaya. Me tun dena eka aewara nuwarin pitat-wela akurata
+giyama ara raja-kumarayat henaÂ­kollat denna guhin akuru kiyala enakota
 waduwage puta tawama maga yanawa. Ara denna bohoma kadisarakamin
 yanawa. E nisa waduwage puta ohuge piya atin kiwuwa "Api tun dena eka
 aewara nuwarin pitat-wela giyama ara denna issara-wela guhin akuru
 kiyalat enawa. Ekama dawasakwat eka aewara guhin akuru kiyala enda
-bæri-unaya." Næwata waduwage putata da[n]du monara yantreyak tanala
-dila eya eka pædagana guhin akuru kiyala enakota ara denna tawama
+bÃ¦ri-unaya." NÃ¦wata waduwage putata da[n]du monara yantreyak tanala
+dila eya eka pÃ¦dagana guhin akuru kiyala enakota ara denna tawama
 yanawa akurata. Eka dawasak raja-kumaraya waduge putata kiwuwa "Ane
-yaluwe matat denawada da[n]du monara yantre pædala balanda" kiyala
-æhæwuwaya. Ewita waduwage puta "Hondayi" kiyala lanu da[n]ge pagana
-hæti kiyala dunnaya. Kumaraya lanu da[n]ge allanakotama da[n]du
-monara yantre guhin ahase walakulwala ræ[n]dunaya. Ewita e nuwara
-rajjuruwot senawat baya-wela hit[iy]a. Næwata e nuwara saestra-karayot
-ganitak-karayot ekatu-karala æhæwuwa "Me kumaraya kawadata da[n]du
-monara yantre ænna pat-weyida." Ewita saestra-karayo kiwuwa "Tun
-awurudu tun masayak giya tæna æwit mude wætenawaya." Ewita rajjuruwo
-æmættayinda kiwuwa "E awurudu ganan dawas ganan ayiru-karagana indala
-muda wata­kara dæl damana i[n]dala kumaraya wætena wahama goda-ganda
-onaeya" kiyala niyama-keruwaya. Næwata kumaraya da[n]du monara yantre
+yaluwe matat denawada da[n]du monara yantre pÃ¦dala balanda" kiyala
+Ã¦hÃ¦wuwaya. Ewita waduwage puta "Hondayi" kiyala lanu da[n]ge pagana
+hÃ¦ti kiyala dunnaya. Kumaraya lanu da[n]ge allanakotama da[n]du
+monara yantre guhin ahase walakulwala rÃ¦[n]dunaya. Ewita e nuwara
+rajjuruwot senawat baya-wela hit[iy]a. NÃ¦wata e nuwara saestra-karayot
+ganitak-karayot ekatu-karala Ã¦hÃ¦wuwa "Me kumaraya kawadata da[n]du
+monara yantre Ã¦nna pat-weyida." Ewita saestra-karayo kiwuwa "Tun
+awurudu tun masayak giya tÃ¦na Ã¦wit mude wÃ¦tenawaya." Ewita rajjuruwo
+Ã¦mÃ¦ttayinda kiwuwa "E awurudu ganan dawas ganan ayiru-karagana indala
+muda wataÂ­kara dÃ¦l damana i[n]dala kumaraya wÃ¦tena wahama goda-ganda
+onaeya" kiyala niyama-keruwaya. NÃ¦wata kumaraya da[n]du monara yantre
 lanu allana welawata pat-bahinda patan-gattaya. Wenin nuwaraka sohon
 bumiyaka nuga uksayak pitata da[n]du monara yantre pat-unaya. Ewita
-kumaraya da[n]du monara yantre gaha uda tiyala gahen bæhæla e
-nuwarata guhin æwidinda patan-gattaya. E nuwara rajju[ru]wanne
-kumarikawat tawat kumari­kawo samaga wilaka nana welawata me
-kumarayat æwidagana yana welawata kumarikawa dutuwaya. Dækapu wahama
-kumarikawa hituwa "Kumaraya kara-kara bæ[n]da-gannawa nam ho[n]dayi"
-kiyala. Kumarayat hituwa "Me kumari mata kara-kara bæ[n]da-gannawa
+kumaraya da[n]du monara yantre gaha uda tiyala gahen bÃ¦hÃ¦la e
+nuwarata guhin Ã¦widinda patan-gattaya. E nuwara rajju[ru]wanne
+kumarikawat tawat kumariÂ­kawo samaga wilaka nana welawata me
+kumarayat Ã¦widagana yana welawata kumarikawa dutuwaya. DÃ¦kapu wahama
+kumarikawa hituwa "Kumaraya kara-kara bÃ¦[n]da-gannawa nam ho[n]dayi"
+kiyala. Kumarayat hituwa "Me kumari mata kara-kara bÃ¦[n]da-gannawa
 nam ho[n]dayi" kiyala. Denna dennata hita-gatta misa kata-karaganda
-maruwak næti nisa kumari e wile manel malak kadagana eka ise tiyala
-ibala hita næwata podi-karala pagala dæmmaya. Kumari mehema keruwe
-kumaraya sarana-pawa gatta­hama eyata yatahat-wela kikaru-wela,
-inna bawa dænendayi. Kumarayata eka terila hitata gattaya. Næwata
-kumaraya e nuwara æwidagana yana welawata kumari inna maligawa
+maruwak nÃ¦ti nisa kumari e wile manel malak kadagana eka ise tiyala
+ibala hita nÃ¦wata podi-karala pagala dÃ¦mmaya. Kumari mehema keruwe
+kumaraya sarana-pawa gattaÂ­hama eyata yatahat-wela kikaru-wela,
+inna bawa dÃ¦nendayi. Kumarayata eka terila hitata gattaya. NÃ¦wata
+kumaraya e nuwara Ã¦widagana yana welawata kumari inna maligawa
 sambu-unaya. Kumaraya tika welawak etana inna welawata kumarikawa
-udu-mahan-talawe janeleyak ærala widiya diha bala inna welawata me
-kumaraya inna bawa dækala kata-keruwaya. Ewita kumarayata kiwuwa "Oba
-ræ unayin passe mama me janele ærala tiyanawa. Oba waren." Næwata
-kumaraya maligawe serama nida-gattata passe æwit balapuwama janele
-ærala tibunaya. Kumarita kata-karala maligawata ætul-unaya. Næwata
+udu-mahan-talawe janeleyak Ã¦rala widiya diha bala inna welawata me
+kumaraya inna bawa dÃ¦kala kata-keruwaya. Ewita kumarayata kiwuwa "Oba
+rÃ¦ unayin passe mama me janele Ã¦rala tiyanawa. Oba waren." NÃ¦wata
+kumaraya maligawe serama nida-gattata passe Ã¦wit balapuwama janele
+Ã¦rala tibunaya. Kumarita kata-karala maligawata Ã¦tul-unaya. NÃ¦wata
 denna kata-baha-karala kumaraya eli-wenda palamuwen maligawen
-pita-wela guhin ræ wena kal i[n]dala ayet enawaya. Ewita kumari
+pita-wela guhin rÃ¦ wena kal i[n]dala ayet enawaya. Ewita kumari
 kumaraya maligawema tiyaganna pinisa e nuwara acari minihekuta rahase
 enda kiyala masuran dahasakut dila miniha ho[n]data diwurawala kumari
-kiwuwa "Loku pan-kandak tanala eka ætule minihekuta inda tanala ekata
-yaturu iskuppu karakawala wikunanda genena hætiyata raja-wasalata
-ænna waren genahama mama rajjuruwanda kiyala mama gañan." Ewita
-gurunnæha guhin kumari kiyapu hætiyata pan-kanda tanala rajjuruwo
-la[n]gata genawaya. Næwata kumari æwit "Meka mata onae" kiyala ænna
-guhin maligawe tiya-gattaya. Gurunnæhæta rajjuruwo masuran pan siyayak
-dunnaya. Næwata ara kumaraya pan-kanda atulata damala hitiyaya. Nobo
-dawasak yanakota kumari bada-gærbba unaya. Kumari badin inna bawa
-rajjuruwanda dænila maligawa wateta mura tiyala a[n]da bera prasidda
+kiwuwa "Loku pan-kandak tanala eka Ã¦tule minihekuta inda tanala ekata
+yaturu iskuppu karakawala wikunanda genena hÃ¦tiyata raja-wasalata
+Ã¦nna waren genahama mama rajjuruwanda kiyala mama gaÃ±an." Ewita
+gurunnÃ¦ha guhin kumari kiyapu hÃ¦tiyata pan-kanda tanala rajjuruwo
+la[n]gata genawaya. NÃ¦wata kumari Ã¦wit "Meka mata onae" kiyala Ã¦nna
+guhin maligawe tiya-gattaya. GurunnÃ¦hÃ¦ta rajjuruwo masuran pan siyayak
+dunnaya. NÃ¦wata ara kumaraya pan-kanda atulata damala hitiyaya. Nobo
+dawasak yanakota kumari bada-gÃ¦rbba unaya. Kumari badin inna bawa
+rajjuruwanda dÃ¦nila maligawa wateta mura tiyala a[n]da bera prasidda
 kala me hora allanda rajjuruwot mura-karayot puluwan ussaha-keruwa
-hora allanda numut bæri-unaya. Eka kanawændum gaeniyak kiwuwa
-"Mata allanda puluwani hora allanda mata hawaha udæhana kumari
+hora allanda numut bÃ¦ri-unaya. Eka kanawÃ¦ndum gaeniyak kiwuwa
+"Mata allanda puluwani hora allanda mata hawaha udÃ¦hana kumari
 inna maligawata yanda denawa nam." Ewita rajjuruwo e gaenita tisse
 de wele yanda ida dunnaya. Kipa dawasak yana welawata ara pan-kanda
-ætule minihek inna bawa me gænita dænila dawasak hin wæli pottaniyakut
-æragana guhin kumari ekka kata-kara kara hitapu gaman wæli pottaniya
+Ã¦tule minihek inna bawa me gÃ¦nita dÃ¦nila dawasak hin wÃ¦li pottaniyakut
+Ã¦ragana guhin kumari ekka kata-kara kara hitapu gaman wÃ¦li pottaniya
 pan-kanda wateta damala tuni-karala awaya. Kumarita meka soya-ganda
-bæri-una. Ara gæni pahuwa da udema guhin bæluwama kumarayage adi
-tibunaya ara wælle. Dutu wahama gæni guhin rajjuruwo ekka kiwuwa "Mama
-hora ælluwa. Yan balanda." Mæhælli guhin "Onna oya pan-kanda ætule
+bÃ¦ri-una. Ara gÃ¦ni pahuwa da udema guhin bÃ¦luwama kumarayage adi
+tibunaya ara wÃ¦lle. Dutu wahama gÃ¦ni guhin rajjuruwo ekka kiwuwa "Mama
+hora Ã¦lluwa. Yan balanda." MÃ¦hÃ¦lli guhin "Onna oya pan-kanda Ã¦tule
 tamayi hora inne" kiyala rajjuruwanda pennuwaya. Ewita rajju[ru]wo
-pan-kanda kadala bæluwama hora hitiyaya. Næwata rajjuruwo niyama-keruwa
-horata wada-karala ænna guhin kapala damanda kiyala wada-karuwanda
-kiwaya. Ewita wada-karuwo kumaraya bæ[n]da­gana wada-bera gahagana ara
+pan-kanda kadala bÃ¦luwama hora hitiyaya. NÃ¦wata rajjuruwo niyama-keruwa
+horata wada-karala Ã¦nna guhin kapala damanda kiyala wada-karuwanda
+kiwaya. Ewita wada-karuwo kumaraya bÃ¦[n]daÂ­gana wada-bera gahagana ara
 sohon bumiyata anna giyaya. Ewita kumaraya kiwuwa wada-karuwanda "Yam
 kenek maranawa nam eyata hitu de kanda bonda dila neweda maranne. E
 nisa mama me nuga gahata guhin nuga gedi dekak kala enakal obala
-me gaha wateta ræggana hitapalla. Mata wena pænala yanda tænak
-næta." Ewita wada-karuwo "Ho[n]dayi" kiyala kumaraya gahata goda-wela
-ara da[n]du monara yantreta goda-wela ahasata pæddaya. Wada-karuwo
-balana hitiyakota kumaraya igilila giyaya. Næwata wada-karuwo
-rajjuruwannen soli wæteyi kiyala katussek allala kapala kaduwe le
-gagana guhin rajjuruwanda pennuwa hora kapala dæmmaya kiyala. Eda
-hita kumari soken kanne bonne nætuwa hitiyaya. Kipa dawasakata passe
-kumaraya da[n]du monara yantre pædagana æwit kumari inna maligawa
-uda hitawala ulu ahak-karala kumarayage ate tibunu peræs-munda kumari
-inna tænata ætæriyaya. Kumarayage saluwakut ataeriyaya. Ewita kumari
-kumaraya bawa dænagana redi ihalata wisu-keruwaya. At-wæla bæ[n]dagana
-bahinda ewita kumaraya bæhæla kumarita kiwuwa "Mama maranda sohon
-bumiyata ænna giya. Mama wada-karuwo rawatawala gahata goda-wela mage
-da[n]du monara yantre gaha uda tibuna mama ekata goda-wela pædagana
-giyaya." Næwata kumarit kumarayat dennama giyaya. Yana welawata
+me gaha wateta rÃ¦ggana hitapalla. Mata wena pÃ¦nala yanda tÃ¦nak
+nÃ¦ta." Ewita wada-karuwo "Ho[n]dayi" kiyala kumaraya gahata goda-wela
+ara da[n]du monara yantreta goda-wela ahasata pÃ¦ddaya. Wada-karuwo
+balana hitiyakota kumaraya igilila giyaya. NÃ¦wata wada-karuwo
+rajjuruwannen soli wÃ¦teyi kiyala katussek allala kapala kaduwe le
+gagana guhin rajjuruwanda pennuwa hora kapala dÃ¦mmaya kiyala. Eda
+hita kumari soken kanne bonne nÃ¦tuwa hitiyaya. Kipa dawasakata passe
+kumaraya da[n]du monara yantre pÃ¦dagana Ã¦wit kumari inna maligawa
+uda hitawala ulu ahak-karala kumarayage ate tibunu perÃ¦s-munda kumari
+inna tÃ¦nata Ã¦tÃ¦riyaya. Kumarayage saluwakut ataeriyaya. Ewita kumari
+kumaraya bawa dÃ¦nagana redi ihalata wisu-keruwaya. At-wÃ¦la bÃ¦[n]dagana
+bahinda ewita kumaraya bÃ¦hÃ¦la kumarita kiwuwa "Mama maranda sohon
+bumiyata Ã¦nna giya. Mama wada-karuwo rawatawala gahata goda-wela mage
+da[n]du monara yantre gaha uda tibuna mama ekata goda-wela pÃ¦dagana
+giyaya." NÃ¦wata kumarit kumarayat dennama giyaya. Yana welawata
 kumarita dasa masa sampurna-wela hitiyaya. Yana welawata bade ruda
-allanda patan-gattaya. Næwata da[n]du monara yantre maha himalekata
-pat-karala winadiyata atu-geyak tanala kumari wædu­waya. Ewita
+allanda patan-gattaya. NÃ¦wata da[n]du monara yantre maha himalekata
+pat-karala winadiyata atu-geyak tanala kumari wÃ¦duÂ­waya. Ewita
 kumaraya kiwuwa "Mama mehe guhin gindara tikak aragana ena kal
-hitapan" kiyala kumarita kiyagana da[n]du monara yantre pædagana
-kumaraya giyaya. Guhin pol-lellakata gindara aragana pædagana muda
-mædin ena welawata pol-lella dala da[n]du monara yantreta gindara
-allala daewaya. Næwata kumaraya æwit mude wætunaya. Ara palamu
-kiyapu awurudu gananat edata kammutu-wela tibunaya. Mude dæl damana
-hitapu aya kumaraya wætunu wahama goda-gattaya. E kumaraya e nuwara
+hitapan" kiyala kumarita kiyagana da[n]du monara yantre pÃ¦dagana
+kumaraya giyaya. Guhin pol-lellakata gindara aragana pÃ¦dagana muda
+mÃ¦din ena welawata pol-lella dala da[n]du monara yantreta gindara
+allala daewaya. NÃ¦wata kumaraya Ã¦wit mude wÃ¦tunaya. Ara palamu
+kiyapu awurudu gananat edata kammutu-wela tibunaya. Mude dÃ¦l damana
+hitapu aya kumaraya wÃ¦tunu wahama goda-gattaya. E kumaraya e nuwara
 uyan-wattak wawagana etana hitiyaya. Ara himale wadapu kumarita kisi
-sawu-saranak nætuwa inna atara e himale tapas rakina tapasa kenekuta
-me duka penila kumari inna tænata æwit kata-keruwaya. Ewita kumari
+sawu-saranak nÃ¦tuwa inna atara e himale tapas rakina tapasa kenekuta
+me duka penila kumari inna tÃ¦nata Ã¦wit kata-keruwaya. Ewita kumari
 tapasayo dutuwata passe hite tibunu karadare tikak arila tapasa-inda
-kiwuwa "Mama me wanantare æwidala palawæla tikak soyagana ena turu
-me lamaya bala-ganna­wada" kiyala æhæwuwa. Næwata tapasayo kiwuwa
-"Mama lamaya ælluwot mata kilutayi. E nisa oba mæssak tanala eka
-wælakin ellala mæsse wælak bæ[n]dala lamaya mæsse budi-karawala hita
-palayan. Lamaya a[n]dana welawata mama æwit wæla gawin allala hollanñan
-ewita lamaya nawatinawa æta." Tapasayo kiyapu hætiyata karala kumari
-palawæla soyagana kaewaya. Eka dawasak kumari lamayata kiri powala
-mæsse budi-karawala palawæla soyanda giyaya. Næwata ara lamaya
-mæssen peralila bimata wætila a[n]dana welawata tapasa-inda æhila
-æwit bæluwama lamaya peralila bima wætila hitiyaya. Ewita tapasa-inda
+kiwuwa "Mama me wanantare Ã¦widala palawÃ¦la tikak soyagana ena turu
+me lamaya bala-gannaÂ­wada" kiyala Ã¦hÃ¦wuwa. NÃ¦wata tapasayo kiwuwa
+"Mama lamaya Ã¦lluwot mata kilutayi. E nisa oba mÃ¦ssak tanala eka
+wÃ¦lakin ellala mÃ¦sse wÃ¦lak bÃ¦[n]dala lamaya mÃ¦sse budi-karawala hita
+palayan. Lamaya a[n]dana welawata mama Ã¦wit wÃ¦la gawin allala hollanÃ±an
+ewita lamaya nawatinawa Ã¦ta." Tapasayo kiyapu hÃ¦tiyata karala kumari
+palawÃ¦la soyagana kaewaya. Eka dawasak kumari lamayata kiri powala
+mÃ¦sse budi-karawala palawÃ¦la soyanda giyaya. NÃ¦wata ara lamaya
+mÃ¦ssen peralila bimata wÃ¦tila a[n]dana welawata tapasa-inda Ã¦hila
+Ã¦wit bÃ¦luwama lamaya peralila bima wÃ¦tila hitiyaya. Ewita tapasa-inda
 lamaya allanda kiluta nisa malak kadala malata sattak kriya-karala "Me
-lamaya wagema lamayek mæwiyan" kiyala hituwaya. Næwata e wagema lamayek
-mæwunaya. Kumari æwit balapuwama lamayi dennek innawa dækala kumari
-tapasa-ingen æhæwuwa "Mokada ada lamayi dennek." Næwata tapasayo kiwuwa
-"Mama enakota lamaya wætila a[n]da a[n]da hitiya. Mata lamaya allanda
-kiluta nisa mama e wagema lamayek mæwuwaya." Næwata kumari kiwuwa
-"Mata oya wacane wiswasa-karanda bæriya. Ehe nan ayet lamayek mawanda
+lamaya wagema lamayek mÃ¦wiyan" kiyala hituwaya. NÃ¦wata e wagema lamayek
+mÃ¦wunaya. Kumari Ã¦wit balapuwama lamayi dennek innawa dÃ¦kala kumari
+tapasa-ingen Ã¦hÃ¦wuwa "Mokada ada lamayi dennek." NÃ¦wata tapasayo kiwuwa
+"Mama enakota lamaya wÃ¦tila a[n]da a[n]da hitiya. Mata lamaya allanda
+kiluta nisa mama e wagema lamayek mÃ¦wuwaya." NÃ¦wata kumari kiwuwa
+"Mata oya wacane wiswasa-karanda bÃ¦riya. Ehe nan ayet lamayek mawanda
 onae mata balanda." Ewita tapasayo kiwuwa "Obata eka lamaya tanaganda
-tiyena amaruwe hætiyata tun denek unama kopamana amaruwakda." "Kamak
-næta. Mawala dendeyi. Mata tanaganda puluwani." Ewita tapasayo malak
-kadala sattak kriya-karala mæssa uda tiyapuwama e wagema lamayek
-mæwunaya. Næwata kumari santosa-wela lamayi tænuwaya. Næwata lamayi
-tænila e lamayi wihin wanantare æwidala palawæla soyagana æwit mawuta
-dila kanda patan-gattaya. Eka dawasak me tun dena æwidagana yana
+tiyena amaruwe hÃ¦tiyata tun denek unama kopamana amaruwakda." "Kamak
+nÃ¦ta. Mawala dendeyi. Mata tanaganda puluwani." Ewita tapasayo malak
+kadala sattak kriya-karala mÃ¦ssa uda tiyapuwama e wagema lamayek
+mÃ¦wunaya. NÃ¦wata kumari santosa-wela lamayi tÃ¦nuwaya. NÃ¦wata lamayi
+tÃ¦nila e lamayi wihin wanantare Ã¦widala palawÃ¦la soyagana Ã¦wit mawuta
+dila kanda patan-gattaya. Eka dawasak me tun dena Ã¦widagana yana
 welawata loku gangawak sambu-unaya. Balapuwama ga[n]gen egoda loku
 uyan-wattak penenawaya. Ewita me tun dena "Pinanda pulu wanda" kiyala
-hu[n]gak durata pinala apahu æwidin "Heta udema emu" kiyagana tika
-tika palawæla soyagana guhin mawuta dila pahuwa da udema dunu italut
-æragana tun denama ga[n]ga gawata giyaya. Guhin tun denama pinagana
-uyan-wattata guhi[n] bæluwama noyek palawæla jati tibunaya. Næwata
-me tun dena kadala kana welawata e uyana rakina uyan-gowuwo dækala
-duwagana æwit allanda tænuwaya. Ewita me tu[n de]na dunu æraga[na]
-widinda tænuwaya. Næwata uyan-gowuwo pænala duwagana guhin rajjuruwo
+hu[n]gak durata pinala apahu Ã¦widin "Heta udema emu" kiyagana tika
+tika palawÃ¦la soyagana guhin mawuta dila pahuwa da udema dunu italut
+Ã¦ragana tun denama ga[n]ga gawata giyaya. Guhin tun denama pinagana
+uyan-wattata guhi[n] bÃ¦luwama noyek palawÃ¦la jati tibunaya. NÃ¦wata
+me tun dena kadala kana welawata e uyana rakina uyan-gowuwo dÃ¦kala
+duwagana Ã¦wit allanda tÃ¦nuwaya. Ewita me tu[n de]na dunu Ã¦raga[na]
+widinda tÃ¦nuwaya. NÃ¦wata uyan-gowuwo pÃ¦nala duwagana guhin rajjuruwo
 atin kiwuwaya. Me tun dena puluwan tarama kala hu[n]gak kadagana
 ekan-wela giyaya. Ewita rajjuru[wo] uyan-gowuwanda kiwuwa "Hetat me
-horu awot wahama mata dannawapallaya." Pahuwa dat ara tun dena æwit
+horu awot wahama mata dannawapallaya." Pahuwa dat ara tun dena Ã¦wit
 kadana welawata uyan-gowuwo guhin kiwuwa. Ewita rajjuruwo dunu italut
-aragana æwit widdaya. Widapuwama itale guhin ara kumarayo la[n]ga apahu
-bala wætunaya. Næwata e gollat rajjuruwanda widdaya. Et e hætiyatama
-itale guhin rajjuruwo la[n]ga apahu bala wætunaya. Næwata de-gollama
+aragana Ã¦wit widdaya. Widapuwama itale guhin ara kumarayo la[n]ga apahu
+bala wÃ¦tunaya. NÃ¦wata e gollat rajjuruwanda widdaya. Et e hÃ¦tiyatama
+itale guhin rajjuruwo la[n]ga apahu bala wÃ¦tunaya. NÃ¦wata de-gollama
 lan-wela hita kata-keruwaya "Meka loku pudumayak une. De-gollagen
-katawat wædune næti kariya loku pudumayak. E nisa de-gollama yan
+katawat wÃ¦dune nÃ¦ti kariya loku pudumayak. E nisa de-gollama yan
 panditayo la[n]gata meka toranda." Ewita de-gollama guhin panditayinda
 kiwuwa me unu kariya. Ewita panditayo torala kiwuwa rajjuruwanda
-"Tamunnanse dænata tun hatara awurudda­kata ihatadi kumarikawak
-kændana hitiya. E kumarige tamayi me tun dena tamunnanseta jataka
-daruwo. E nisa dewiyo wihin meka pennala inne. Kumarikawa inna tænakin
-guhin kændana endeyi" kiyala panditayo rajjuruwan[da] kiwaya. Næwata
-rajjuruwanda matakwela winadiyata næwak sarasagana panca-suriya
+"Tamunnanse dÃ¦nata tun hatara awuruddaÂ­kata ihatadi kumarikawak
+kÃ¦ndana hitiya. E kumarige tamayi me tun dena tamunnanseta jataka
+daruwo. E nisa dewiyo wihin meka pennala inne. Kumarikawa inna tÃ¦nakin
+guhin kÃ¦ndana endeyi" kiyala panditayo rajjuruwan[da] kiwaya. NÃ¦wata
+rajjuruwanda matakwela winadiyata nÃ¦wak sarasagana panca-suriya
 (sic) naden ara kumari inna wanantareta guhin kumari a[n]da-gahagana
-æwit kumarit kumarayo tun denat rajjuruwot e uyane hitiyaya kiyala
+Ã¦wit kumarit kumarayo tun denat rajjuruwot e uyane hitiyaya kiyala
 tibenawaya.
 
 
@@ -16122,60 +16097,60 @@ THE STORY OF THE SEVEN WICKED WOMEN
 NAPURU GAENU HADDENAGE KATANTARAYA
 
 
-Ekomat eka rataka akko nago haddenek at-wæl bændagana yanakota gaeniyak
-linda gawa indala æhæwwa "Kohedae tamala yanne" kiyala. Etakota
+Ekomat eka rataka akko nago haddenek at-wÃ¦l bÃ¦ndagana yanakota gaeniyak
+linda gawa indala Ã¦hÃ¦wwa "Kohedae tamala yanne" kiyala. Etakota
 e akko nago haddena kiwa "Api ayiyo malayo haddenek hoya-ganda
 yanawa" kiyala. Etakota me gaeni kiwa "Mage innawa ayyo malayo
-haddenek. Yamalla ehe nan ape gedara" kiyala e haddena kændana gihin
-gewal hatakata ærala wi petti hatak bala dunna. E haddena e wi tambala
+haddenek. Yamalla ehe nan ape gedara" kiyala e haddena kÃ¦ndana gihin
+gewal hatakata Ã¦rala wi petti hatak bala dunna. E haddena e wi tambala
 me gaenita "Naene mewwa bala-ganin" kiyala wi wanala e haddena dara
 pare giya. E gihin kata-wuna "Naena maranda api upaharana karamu"
 kiyala. Rilawek hitiya e rilawa alla-gana gedara genawa. Me nagata
-budi gihin maha warusawak wæhæla wi okkama agare giya. Ara haddena
-æwidin bælukota wi okkama agare gihin. Ita passe e haddena aye
-wi bala e wi kækulen kotanakota ara nagata æhæruna. E æhærila ara
-haddena atin æhæwwa "Naene bat tiyeyi" kiyala. Etakota e gaenu kiwa
-"Bat tiyenne api ateyæyi hæliye newe tiyenne" kiyala. E gaenu kalimma
-kotaleta kæbilicca katu kudu-karala damala tiyayi wi kotanne. Passe
+budi gihin maha warusawak wÃ¦hÃ¦la wi okkama agare giya. Ara haddena
+Ã¦widin bÃ¦lukota wi okkama agare gihin. Ita passe e haddena aye
+wi bala e wi kÃ¦kulen kotanakota ara nagata Ã¦hÃ¦runa. E Ã¦hÃ¦rila ara
+haddena atin Ã¦hÃ¦wwa "Naene bat tiyeyi" kiyala. Etakota e gaenu kiwa
+"Bat tiyenne api ateyÃ¦yi hÃ¦liye newe tiyenne" kiyala. E gaenu kalimma
+kotaleta kÃ¦bilicca katu kudu-karala damala tiyayi wi kotanne. Passe
 ara naena gihin bat kala "Naene watura dilala" kiyala me gaenu kiwa
-"Api ateyæyi tiyenne geyi kotale tiyanawa anna bipan" kiyala. Passe
-e naena kotale anna diya bonakota kæbilicca katu ugure rænduna. Me
-haddena kata-wuna "Okige ayiyala awot nan maranda bæri-weyi. Enda
+"Api ateyÃ¦yi tiyenne geyi kotale tiyanawa anna bipan" kiyala. Passe
+e naena kotale anna diya bonakota kÃ¦bilicca katu ugure rÃ¦nduna. Me
+haddena kata-wuna "Okige ayiyala awot nan maranda bÃ¦ri-weyi. Enda
 issara maramu" kiyala e kata-wela naenayi ara rilawayi mallakata
-damala bændala yata-liye elluwa. E ellala e haddena wi kotamin hita
+damala bÃ¦ndala yata-liye elluwa. E ellala e haddena wi kotamin hita
 haddena hat parak gahanawa mol-gaswalin e mallata. E gahana gane ara
-rila pæna pæna ara malle inna gaeni suranawa. E surala passe mallen
+rila pÃ¦na pÃ¦na ara malle inna gaeni suranawa. E surala passe mallen
 le bahinawa. Etakota e haddena "Itin inda narakayi mundala damamu"
-kiyala malla mundala e naena pilikannata dæmma. Etakota e naenage
-ayiyala gedara awa. E æwidin wædimal  ayiya æhæwwa "Koyi ape naga"
+kiyala malla mundala e naena pilikannata dÃ¦mma. Etakota e naenage
+ayiyala gedara awa. E Ã¦widin wÃ¦dimal  ayiya Ã¦hÃ¦wwa "Koyi ape naga"
 kiyala. Etakota me gaenu haddena kiwa "Api danne nae. Rodi passe gihin
-kula wætila on pilikanna diha anda anda innawa" kiyala. Passe wædimal
-ayiya gihin "Mokadae nage umbata wune" kiyala æhæwwa naga atin. Nagata
-kata-karanda bae kæbilicca katuwak ugure ræ[n]dila tiyana nisa. E
-ayiyala haddenama gihin kata-keruwa. Kata-keruwe næti nisa wædimal
+kula wÃ¦tila on pilikanna diha anda anda innawa" kiyala. Passe wÃ¦dimal
+ayiya gihin "Mokadae nage umbata wune" kiyala Ã¦hÃ¦wwa naga atin. Nagata
+kata-karanda bae kÃ¦bilicca katuwak ugure rÃ¦[n]dila tiyana nisa. E
+ayiyala haddenama gihin kata-keruwa. Kata-keruwe nÃ¦ti nisa wÃ¦dimal
 ayiya kiwa "Me naga kapanda katadae pustuhan" kiyala. Anit ayiyala
 pas denama bae kiwa bala ayiya kiwa "Mata nan pustuwani" kiyala. E
-kiyala bat gediyak uyawagana nagat kændana kaduwat aragana bat gediyat
+kiyala bat gediyak uyawagana nagat kÃ¦ndana kaduwat aragana bat gediyat
 aragana himalekata giya. E gihin nagata kiwa "Nage umbe oluwe ukunan
 balanda budiya-ganin ko" kiyala. Passe naga budiya-gatta itin ayiya
 ukunan bindinda patan-gatta. Etakota nagata budi-giya. Passe e ayiya
-nagage oluwa himimma bima tiyala emin para gærendiyek kapala kaduwe
-le gagana gedara inna ættanda kaduwa pennuwa. Passe ara naga æhærila
-bælukota ayiya nae wanantare. Itin anda anda bat gediyat anna parakata
-pænala yanda patan-gatta. E gihin raksaya kana nuwara kiyala nuwarak
-tiyanawa e nuwara dan-sælak tiyanawa etenda gihin eli-bæssa. Etanin
-ara bat gediya kala dan dena ættanda ek-wela dan denda patan-gatta. Me
-ayiyala haddenageyi gaenu haddenageyi okkagema æs kana-wuna. Ita
-passe e ættandat aranci-wuna raksaya kana nuwara dan-sælak tiyanawa
-kiyala. Ita passe ewun daha-hatara denama e dan-sæla gawata giya. Ara
+nagage oluwa himimma bima tiyala emin para gÃ¦rendiyek kapala kaduwe
+le gagana gedara inna Ã¦ttanda kaduwa pennuwa. Passe ara naga Ã¦hÃ¦rila
+bÃ¦lukota ayiya nae wanantare. Itin anda anda bat gediyat anna parakata
+pÃ¦nala yanda patan-gatta. E gihin raksaya kana nuwara kiyala nuwarak
+tiyanawa e nuwara dan-sÃ¦lak tiyanawa etenda gihin eli-bÃ¦ssa. Etanin
+ara bat gediya kala dan dena Ã¦ttanda ek-wela dan denda patan-gatta. Me
+ayiyala haddenageyi gaenu haddenageyi okkagema Ã¦s kana-wuna. Ita
+passe e Ã¦ttandat aranci-wuna raksaya kana nuwara dan-sÃ¦lak tiyanawa
+kiyala. Ita passe ewun daha-hatara denama e dan-sÃ¦la gawata giya. Ara
 naena digekut gihin darawekut wadalat innawa. Me gollata kaema dila
-ara naenayi naenage lamayayi budi-yenda tana­kota e lamaya kiwa
+ara naenayi naenage lamayayi budi-yenda tanaÂ­kota e lamaya kiwa
 naenata "Amme mata ahanda kata-wastuwak kiyapan" kiyala. Etakota
-e naena "Pute mama monawadae danne mata wecci ewwa nan kiyaññan"
+e naena "Pute mama monawadae danne mata wecci ewwa nan kiyaÃ±Ã±an"
 kiyala. Etakota puta kiwa "Hondayi kiyapan" kiyala. Passe me naenata
-wecca karana serama kiwa. E kiyana ewwa ara ayiyala haddenata æhila
+wecca karana serama kiwa. E kiyana ewwa ara ayiyala haddenata Ã¦hila
 "Ane ape naga ada ape warune kiyanne" kiyala sadu-kara dipu parama
-ayiyala haddenagema æs paeduna. Gaenu haddenage æs paedune nae. E
+ayiyala haddenagema Ã¦s paeduna. Gaenu haddenage Ã¦s paedune nae. E
 ayiyala haddenat naga inna nuwarama hitiya. Gaenu haddena badi-ginnema
 indala un maerila giya. Nimi.
 
@@ -16197,65 +16172,65 @@ RAKSAYAGEYI KUMARIKAWAGEYI KATANTARAYA
 
 
 Ekomat eka rataka rajjuruwo kenekuyi dewinnanse kenekuyi innawa
-lu. E dewinnanse kumarikawak wæduwa. E ratema raksayekuyi raksiyekuyi
+lu. E dewinnanse kumarikawak wÃ¦duwa. E ratema raksayekuyi raksiyekuyi
 innawa. E raksit raksayek waeduwa. Ara kumarikawage handahane tibuna
 raksayekuta kasata bandinawa kiyala ara raksayage handahane tibuna
 kumarikawak kasata bandinawa kiyala. E dennama hungak loku-wunata
-passe rajjuruwoyi dewinnanseyi mæruna ara kumarikawa witarayi
+passe rajjuruwoyi dewinnanseyi mÃ¦runa ara kumarikawa witarayi
 maligawe inne. Raksayata hitapu deyak mawanda puluwani. E raksaya
-hituwa "Maligawayi maligawe tiyana raja wastuwayi serama næti-wenda"
-kiyala e hætiyatama næti-wuna. Kumarikawata inda tænak nætuwa anda anda
-innakota raksaya etenda æwit kumarikawa atin æhuwa "Mokada andanne"
-kiyala. Etakota kumarikawa kiwa "Mama andanne mata inda tænak nae kanda
-deyak nae e nisa" kiyala. Ita passe raksaya kiwa "Mama kae-ændima
-deññan. Ape gedara enda puluwanda" kiyala. Etakota kumarikawa kiwa
+hituwa "Maligawayi maligawe tiyana raja wastuwayi serama nÃ¦ti-wenda"
+kiyala e hÃ¦tiyatama nÃ¦ti-wuna. Kumarikawata inda tÃ¦nak nÃ¦tuwa anda anda
+innakota raksaya etenda Ã¦wit kumarikawa atin Ã¦huwa "Mokada andanne"
+kiyala. Etakota kumarikawa kiwa "Mama andanne mata inda tÃ¦nak nae kanda
+deyak nae e nisa" kiyala. Ita passe raksaya kiwa "Mama kae-Ã¦ndima
+deÃ±Ã±an. Ape gedara enda puluwanda" kiyala. Etakota kumarikawa kiwa
 "Puluwani" kiyala. Ita passe raksayayi kumarikawayi raksayage gedara
-awa. Etakota raksaya atin æhæwwa raksayage amma "Kawdae pute oye"
-kiyala. Etakota kiwa "Amme ahawal rajjuruwanne kumarikawa mama kændana
+awa. Etakota raksaya atin Ã¦hÃ¦wwa raksayage amma "Kawdae pute oye"
+kiyala. Etakota kiwa "Amme ahawal rajjuruwanne kumarikawa mama kÃ¦ndana
 awa umbata lehuwak karawa-ganda" kiyala. Ita passe raksi "Ha hondayi"
-kiyala kumarikawa raksinge wæda-kariyak wage serama wæda kumarikawa
+kiyala kumarikawa raksinge wÃ¦da-kariyak wage serama wÃ¦da kumarikawa
 lawwa karawagana innakota raksita hit-una "Kumarikawa kanawa nam"
 kiyala. E hitila dawasakda raksi mini kanda yanda tanakota kumarikawa
 ati[n] kiwa "Mama enakota diya kalagedi hatak genat tiyala dara miti
-hatak genat tiyala wi hæli hatak tambala kotala gewal hate goma gala
-uyala mata nanda watura unu-karala tiyapiya næt nam to kanawa" kiyala
+hatak genat tiyala wi hÃ¦li hatak tambala kotala gewal hate goma gala
+uyala mata nanda watura unu-karala tiyapiya nÃ¦t nam to kanawa" kiyala
 raksi mini kanda giya. Ita passe kumarikawa anda anda sitiya. Etakota
-raksaya æhuwa "Mokada to andanne" kiyala. Kumarikawa kiwa "Amma mata
-meccara wæda kiyagana giya. Ewwa mama kohomada karanne" kiya. Etakota
-raksaya kiwa "To ekata hæka-wenda epa. Amma æwadin ahapuwama e wæda
+raksaya Ã¦huwa "Mokada to andanne" kiyala. Kumarikawa kiwa "Amma mata
+meccara wÃ¦da kiyagana giya. Ewwa mama kohomada karanne" kiya. Etakota
+raksaya kiwa "To ekata hÃ¦ka-wenda epa. Amma Ã¦wadin ahapuwama e wÃ¦da
 okkama keruwa kiyapiya" kiyala. Ita passe kumarikawa raksaya kiyapu
-hætiyatama karabana indala raksi atin e wæda keruwa kiyala. Raksi
-e wæda harida kiyala balapuwama serama hari. Itin kumarikawa kanda
-hætiyak nae raksita. Ita passe raksige nangata wacanaya æriya "Maligawe
-kellak innawa e kella mata kanda hætiyak nae koyi wædak kiwwawat e wæde
-hariya­tama karala tiyanawa. Itin kohomada kanne. Mama me kella umba
-langata ewaññan etakota umba kapan" kiyala. E raksi kumarikawa atin
+hÃ¦tiyatama karabana indala raksi atin e wÃ¦da keruwa kiyala. Raksi
+e wÃ¦da harida kiyala balapuwama serama hari. Itin kumarikawa kanda
+hÃ¦tiyak nae raksita. Ita passe raksige nangata wacanaya Ã¦riya "Maligawe
+kellak innawa e kella mata kanda hÃ¦tiyak nae koyi wÃ¦dak kiwwawat e wÃ¦de
+hariyaÂ­tama karala tiyanawa. Itin kohomada kanne. Mama me kella umba
+langata ewaÃ±Ã±an etakota umba kapan" kiyala. E raksi kumarikawa atin
 kiwa "Ape nangalae gedara gihin ehe mage pettiyak tiyanawa. Eka genawe
-næt nam to kanawa" kiyala. Ita passe kumarikawa kadulla langata æwit
-anda anda innakota raksaya etenda æwidin æhæwwa "Mokadae to andanne"
+nÃ¦t nam to kanawa" kiyala. Ita passe kumarikawa kadulla langata Ã¦wit
+anda anda innakota raksaya etenda Ã¦widin Ã¦hÃ¦wwa "Mokadae to andanne"
 kiyala. Etakota kumarikawa kiwa "Amma mata kiwa pinci ammalae gedara
-pettiyak tiyanawa. Gene[n]da kiyala næt nam kanawa kiyala pettiya
-pare giyama pinci amma mama kanawa æti. Ada nam mata berenda bae"
+pettiyak tiyanawa. Gene[n]da kiyala nÃ¦t nam kanawa kiyala pettiya
+pare giyama pinci amma mama kanawa Ã¦ti. Ada nam mata berenda bae"
 kiyala. Ita passe raksaya "Pinci amma lipata pimba pimba innawa
 pettiya dora langa tiyanawa. To duwagana gihin pettiya aragana wara"
 kiyala. Passe duwagana gihin kumari baelu wita e raksi lipata pimba
 pimba innawa pettiya dora langa tibuna. Kumarikawa geta gihin pettiyat
-aragana duwagana awa. Raksit passen panna-gatta kanda bæri-wuna. Ara
-raksita etaninut kanda hætiyak nae. Ohoma ohoma hungak kalak innakota
-raksayata mangulak æhæwwa. E ahala raksit mangule yanda dodu-wela
-kumarikawa atin kiwa "Api manamali kændana enakota gedara hondata
-hari-gassala mesa putu hadala mangul-karayinda tæmma uyala tiyapiya"
+aragana duwagana awa. Raksit passen panna-gatta kanda bÃ¦ri-wuna. Ara
+raksita etaninut kanda hÃ¦tiyak nae. Ohoma ohoma hungak kalak innakota
+raksayata mangulak Ã¦hÃ¦wwa. E ahala raksit mangule yanda dodu-wela
+kumarikawa atin kiwa "Api manamali kÃ¦ndana enakota gedara hondata
+hari-gassala mesa putu hadala mangul-karayinda tÃ¦mma uyala tiyapiya"
 kiyagana raksi mangule giya. Raksaya pahu-wela indala kumarikawa atin
-kiwa "To karabana indala amma kiyapu wæda okkama keruwa kiyapiya"
+kiwa "To karabana indala amma kiyapu wÃ¦da okkama keruwa kiyapiya"
 kiyala raksayat mangule giya. Passe kumarikawa karabana indala manamali
-kændagana mangul-karayo awata passe raksi kumarikawa atin æhæwwa "Mama
-kiyapu wæda okkama keruwada keruwada" kiyala. Ita passe kumarikawa
-"Ow" kiwa. Raksi bælukota e wæda serama hari etaninut kanda hætiyak
-nae. Passe e manamalita igænnuwa "Pute on oye kella umbata puluwan
-nan kapan mama puluwan hætiye kanda tænuwa" kiyala. Ita passe e kella
-puluwan kanda tænuwa kumarikawa kanda bæri-wuna. Ohoma ohoma hungak
-kal innakota raksayayi kumarikawayi hængila giya. E gihin kumarikawage
-raja maligawa tibuna hætiyatama mawala e denna maligawe hitiya. Nimi.
+kÃ¦ndagana mangul-karayo awata passe raksi kumarikawa atin Ã¦hÃ¦wwa "Mama
+kiyapu wÃ¦da okkama keruwada keruwada" kiyala. Ita passe kumarikawa
+"Ow" kiwa. Raksi bÃ¦lukota e wÃ¦da serama hari etaninut kanda hÃ¦tiyak
+nae. Passe e manamalita igÃ¦nnuwa "Pute on oye kella umbata puluwan
+nan kapan mama puluwan hÃ¦tiye kanda tÃ¦nuwa" kiyala. Ita passe e kella
+puluwan kanda tÃ¦nuwa kumarikawa kanda bÃ¦ri-wuna. Ohoma ohoma hungak
+kal innakota raksayayi kumarikawayi hÃ¦ngila giya. E gihin kumarikawage
+raja maligawa tibuna hÃ¦tiyatama mawala e denna maligawe hitiya. Nimi.
 
 
         Cultivator, Hiriyala Hat-Pattu District, North-Western Province.
@@ -16276,105 +16251,105 @@ IBI KUMARAYA
 
 Ekomat eka nuwaraka hitanan dennek gedarawal dekaka hitinawa. E
 innakota e hitanan dennata dewinnansela dennakut hitinawa. E inna atara
-eka dewinnanse kenek gaenu daruwo hat denek wæduwa anik dewinnanse
-pirimi daruwo haya denakut ibbakut wæduwa. Etakota ema hitano denna
-kata-kala "Massine obe daruwoyi mage daruwoyi pitata kasata no-bæ[n]da
+eka dewinnanse kenek gaenu daruwo hat denek wÃ¦duwa anik dewinnanse
+pirimi daruwo haya denakut ibbakut wÃ¦duwa. Etakota ema hitano denna
+kata-kala "Massine obe daruwoyi mage daruwoyi pitata kasata no-bÃ¦[n]da
 api apima denu ganu karagamu" kiwa. "Ehenan waedimal daruwo denna
-kasata ba[n]dimu" kiya kasata bænda. Deweni daruwo dennat kasata
-bænda. Tunweni daruwo dennat kasata bænda. Hatara-weni daruwo dennat
-kasata bænda. Pasweni daruwo dennat kasata bænda. Haweni daruwo dennat
-kasata bænda. Hatweni daruwo denna kasata ba[n]dinta hætiyak næta. E
-næti kariya nan "Massine mage duwa bohoma alankara æti duwa. Ema nisa
-obe bala daruwa nan ho[n]da næta" kiwa. "E ho[n]da næti kariya nan
+kasata ba[n]dimu" kiya kasata bÃ¦nda. Deweni daruwo dennat kasata
+bÃ¦nda. Tunweni daruwo dennat kasata bÃ¦nda. Hatara-weni daruwo dennat
+kasata bÃ¦nda. Pasweni daruwo dennat kasata bÃ¦nda. Haweni daruwo dennat
+kasata bÃ¦nda. Hatweni daruwo denna kasata ba[n]dinta hÃ¦tiyak nÃ¦ta. E
+nÃ¦ti kariya nan "Massine mage duwa bohoma alankara Ã¦ti duwa. Ema nisa
+obe bala daruwa nan ho[n]da nÃ¦ta" kiwa. "E ho[n]da nÃ¦ti kariya nan
 mokadae kiwot obe daruwa ibba ema nisa bae" kiwa. Etakota anik massina
-kiyanawa "Massine ehema kiyala bæ. Mage bala daruwa wana ibba kiyanawa
-'Mama appucciye mata e magula næt nan mama li[n]data payinawa noyekut
+kiyanawa "Massine ehema kiyala bÃ¦. Mage bala daruwa wana ibba kiyanawa
+'Mama appucciye mata e magula nÃ¦t nan mama li[n]data payinawa noyekut
 perali-karanawa' kiyala ibba kiyanawa. Ema nisa obe daruwama kasata
-ba[n]dinda onae" kiyanawa. "Ehema bæri nan daru kipa dena­gema kasata
+ba[n]dinda onae" kiyanawa. "Ehema bÃ¦ri nan daru kipa denaÂ­gema kasata
 katu-gamu" kiyanawa ibbage appa. Etakota kiyanawa "Ehe nan massine
 kasata katu-gaemen kamak nae mage duwa ibbata denawa" kiwa. E dila
-kasata bænda. E kasata bæ[n]dala innakota ema nuwara rajjuruwannen
+kasata bÃ¦nda. E kasata bÃ¦[n]dala innakota ema nuwara rajjuruwannen
 yeduna "Rassayae gedara inna gini kukula genat denta kata puluwanda"
 kiya yeduna. Ema rajjuruwannen genat dunnu kenekunda noyek tanantara
-denawa kiya anda-bera gæsuwa. Deweni "Mage rajjayat denawa" kiya
-yeduna. E wacane ibbata dæni "Amme oba gosin kiyapan rajjuruwo dækkin
+denawa kiya anda-bera gÃ¦suwa. Deweni "Mage rajjayat denawa" kiya
+yeduna. E wacane ibbata dÃ¦ni "Amme oba gosin kiyapan rajjuruwo dÃ¦kkin
 "Mage puta wana ibbata puluwani" kiyala kiyapan "gini kukula genat
 denda." Etakota rajjuruwo kiwa "Obe putata enda kiyapan heta ude"
 kiwa. Pasuwa da ude ema ibba gosin kiyanawa "Mata gini kukula genat
 denda puluwani saddawasata." Etakota rajjuruwo kiwa "Ibba tiya kawuru
-genat dunnat tanantara saha mage rajjayat denawa." Ibba gedara æwit
+genat dunnat tanantara saha mage rajjayat denawa." Ibba gedara Ã¦wit
 ibbage gaenita kiwa "Mata bolan bat gediyak uyala genen" kiwa. Etakota
-ibbage gaeni æsuwa "Obata bat gediya mokatadae" kiya æsuwa. "Mata
-rajjuruwannen yeduna rassayæ gedara inna gini kukula genat denda
+ibbage gaeni Ã¦suwa "Obata bat gediya mokatadae" kiya Ã¦suwa. "Mata
+rajjuruwannen yeduna rassayÃ¦ gedara inna gini kukula genat denda
 yeduna. Ema nisa bat gediya uyapan" kiwa. Etakota "Bat gediya uyala
-denda nan puluwani oba kohomadæ ænna yanne" kiwa. Etakota ibba kiwa
-"Bat mallakata damala maye pite tiyala bæ[n]dapan mata ænna gihaeki"
-kiwa. Pite tiyala bændæn passe ema ibba gamana gosin magadin mahamidi
-gæsicci rodakata giya. E gosin bat gediya una ibi hættaya galawa tiya
-bat gediya kaewa. Kala ahak-wela ibi hættaya hanga gamana giya. E
-gamana yanakota magadi rae wela kanawændun ammage gedara giya. E gosin
-"Amme mata nawa-tænak denda onae" kiwa. Etakota kanawændun ammandi kiwa
-"Nawa-tænak nan denda puluwani" kiwa "kanda denda deyak nae." "Ehe nan
-kaemen kamak nae nawa-tæna witarak dunnot ati" kiwa. Etakota kanawændun
-anmandi æsuwa "Oba kohedae pute yanne" kiyala æsuwa. Etakota kiwa
-"Rassayæ gedara mini kukula pare yanawa" kiwa. Kanawændun ammandi
-etakota kiwa "Pute oba karaba­gana gamata palayan. Boho rasi gananak
-senaga metana nawa-tæne hitala gini kukula pare giya. Giya misa
-gini kukula ænna awe nae. Ema nisa oba yanda epa. Etakota kiwa "Oba
+denda nan puluwani oba kohomadÃ¦ Ã¦nna yanne" kiwa. Etakota ibba kiwa
+"Bat mallakata damala maye pite tiyala bÃ¦[n]dapan mata Ã¦nna gihaeki"
+kiwa. Pite tiyala bÃ¦ndÃ¦n passe ema ibba gamana gosin magadin mahamidi
+gÃ¦sicci rodakata giya. E gosin bat gediya una ibi hÃ¦ttaya galawa tiya
+bat gediya kaewa. Kala ahak-wela ibi hÃ¦ttaya hanga gamana giya. E
+gamana yanakota magadi rae wela kanawÃ¦ndun ammage gedara giya. E gosin
+"Amme mata nawa-tÃ¦nak denda onae" kiwa. Etakota kanawÃ¦ndun ammandi kiwa
+"Nawa-tÃ¦nak nan denda puluwani" kiwa "kanda denda deyak nae." "Ehe nan
+kaemen kamak nae nawa-tÃ¦na witarak dunnot ati" kiwa. Etakota kanawÃ¦ndun
+anmandi Ã¦suwa "Oba kohedae pute yanne" kiyala Ã¦suwa. Etakota kiwa
+"RassayÃ¦ gedara mini kukula pare yanawa" kiwa. KanawÃ¦ndun ammandi
+etakota kiwa "Pute oba karabaÂ­gana gamata palayan. Boho rasi gananak
+senaga metana nawa-tÃ¦ne hitala gini kukula pare giya. Giya misa
+gini kukula Ã¦nna awe nae. Ema nisa oba yanda epa. Etakota kiwa "Oba
 amme koccara kiwat mama nan yandama onae. "Maye kima no salaka oba
 yanawata passe me man uyapu kudu-hunusal tikak kala palayan." Etakota
 kiwa, "Ada oba kudu-hunusal iwuwa misa aye obata kudu-hunusal uyanda
-hanba-wenne nae" kiyala kiwa. Ema wahama kækulu hal mæwuna. "Pute oba
-dunnu warama wage mamat obata waramak denñan. Oba rassayae gedara
-gosin ena welawata rassaya nawatagana eyi. E etakota me gal-kæte
-ænna gosin 'Ci kanda mæwiyan' kiyala damapan kanda mæweyi. Rassaya
-kanda diga ihalata gosin pahalata bahinakota obata etakota  hungak tæn
-gi-haeki." Etanine warama æragana yanda yanakota magadin rae una. Rae
-unæn pasu ayet kanawændun anmandi kenekunnge gedarata giya. Kanawændun
-anmandi æsuwa "Kohedae pute oba me rae unu mana yanne." Etakota kiwa
+hanba-wenne nae" kiyala kiwa. Ema wahama kÃ¦kulu hal mÃ¦wuna. "Pute oba
+dunnu warama wage mamat obata waramak denÃ±an. Oba rassayae gedara
+gosin ena welawata rassaya nawatagana eyi. E etakota me gal-kÃ¦te
+Ã¦nna gosin 'Ci kanda mÃ¦wiyan' kiyala damapan kanda mÃ¦weyi. Rassaya
+kanda diga ihalata gosin pahalata bahinakota obata etakota  hungak tÃ¦n
+gi-haeki." Etanine warama Ã¦ragana yanda yanakota magadin rae una. Rae
+unÃ¦n pasu ayet kanawÃ¦ndun anmandi kenekunnge gedarata giya. KanawÃ¦ndun
+anmandi Ã¦suwa "Kohedae pute oba me rae unu mana yanne." Etakota kiwa
 "Mama rassayae gedara gini [332] kukula pare yanawa" kiwa. "Oba oye
 gamana yanda epa gini[332] kukula pare yana senaga yanawa misa enne
 nae." "Kohetma e waga mata nan kiyanda epa mama nan gini[332] kukula
-pare yandama onae. Mama mehe awe nawa-tænak onae wela." "Nawa-tæna
-nan denda puluwani. Kanda denda deyak nae" kiyala kanawændun anmandi
-kiwa. "Kaemen kamak nae mata nawa-tæna dunnot æti" kiwa. Nawa-tæn
-karaya balana iddin kanda baeri handa kudu-hunusal uyapuwæn tikak
+pare yandama onae. Mama mehe awe nawa-tÃ¦nak onae wela." "Nawa-tÃ¦na
+nan denda puluwani. Kanda denda deyak nae" kiyala kanawÃ¦ndun anmandi
+kiwa. "Kaemen kamak nae mata nawa-tÃ¦na dunnot Ã¦ti" kiwa. Nawa-tÃ¦n
+karaya balana iddin kanda baeri handa kudu-hunusal uyapuwÃ¦n tikak
 kanda dunna. "Amme obata kudu-hunusal ada iwuwa misa aye uyanda
-hanbawenne nætuwa mama waramak denñan" kiyala "Kækulu hal mæwiyan
-kiyala kiwa. "Ehe nan pute obata man waramak denñan kiyala menna
-me una kotuwa ænna gosin rassaya oba pare nawatana enda enakota 'Ci
-una mæwiyan' kiyala una kotuwa damapan. Etakota una wæta mæweyi. Una
+hanbawenne nÃ¦tuwa mama waramak denÃ±an" kiyala "KÃ¦kulu hal mÃ¦wiyan
+kiyala kiwa. "Ehe nan pute obata man waramak denÃ±an kiyala menna
+me una kotuwa Ã¦nna gosin rassaya oba pare nawatana enda enakota 'Ci
+una mÃ¦wiyan' kiyala una kotuwa damapan. Etakota una wÃ¦ta mÃ¦weyi. Una
 pa[n]dura diga rassaya ihalata gosin pahalata enakota obata hu[n]gak
-tæn ae-haeki." Etanin pasuwa da yanda yanakota magadi rae una. Rae wela
-ayet kanawaendun anmandi kenekunne gedarakata giya. E gosin nawa-tænak
-illuwa. "Me rae wunu mana oba kohedae yanne" kiyala æsuwa. Etakota
+tÃ¦n ae-haeki." Etanin pasuwa da yanda yanakota magadi rae una. Rae wela
+ayet kanawaendun anmandi kenekunne gedarakata giya. E gosin nawa-tÃ¦nak
+illuwa. "Me rae wunu mana oba kohedae yanne" kiyala Ã¦suwa. Etakota
 kiwa "Mama rassayae gedara gini kukula genenda yanawa" kiwa. "Kola
-das mala das yanawa misa e giya ætto giya misa awe nae. Ema nisa
+das mala das yanawa misa e giya Ã¦tto giya misa awe nae. Ema nisa
 oba yanda epa." "Mama nan gini[332] kukula pare yandama onae. Mata
-metana inda nawa-tæna denda onae." Etakota kiwa "Denda nan puluwani
-kanda denda denda deyak nae." "Mata kaemen kamak nae mata nawa-tæna
-dunnot æti." Kanawændun anmandi wisin kudu-hunusal tikak uyala
-kanda dunna. "Amme obata aye kudu-hunusal uyanda læbenne nae mama
-ho[n]da waramak den[ñ]an." Kækulu hal mæwenda waramak dunna. "Oba
-dunnu waramata wada mama denñan waramak. Rassayage gedara gosin gini
-kukulat ænna enakota rassaya kanda duwagana eyi. E enakota menna me
-a[n]guru kæte ænna gosin 'Ci gini mæwiyan' kiyala damapan, gini wæta
-mæweyi. Etakota rassaya æwit gindarata pani. Karabana hemihita gedara
-waren." E æwadin ibi hættaya tiyana tænata gosin ibi hættaya æ[n]gata
-porawagana gamata awa. E æwadin rajjuruwanda gini kukula bara-dunna. E
+metana inda nawa-tÃ¦na denda onae." Etakota kiwa "Denda nan puluwani
+kanda denda denda deyak nae." "Mata kaemen kamak nae mata nawa-tÃ¦na
+dunnot Ã¦ti." KanawÃ¦ndun anmandi wisin kudu-hunusal tikak uyala
+kanda dunna. "Amme obata aye kudu-hunusal uyanda lÃ¦benne nae mama
+ho[n]da waramak den[Ã±]an." KÃ¦kulu hal mÃ¦wenda waramak dunna. "Oba
+dunnu waramata wada mama denÃ±an waramak. Rassayage gedara gosin gini
+kukulat Ã¦nna enakota rassaya kanda duwagana eyi. E enakota menna me
+a[n]guru kÃ¦te Ã¦nna gosin 'Ci gini mÃ¦wiyan' kiyala damapan, gini wÃ¦ta
+mÃ¦weyi. Etakota rassaya Ã¦wit gindarata pani. Karabana hemihita gedara
+waren." E Ã¦wadin ibi hÃ¦ttaya tiyana tÃ¦nata gosin ibi hÃ¦ttaya Ã¦[n]gata
+porawagana gamata awa. E Ã¦wadin rajjuruwanda gini kukula bara-dunna. E
 denakota rajjuruwo kiwa "Ada hitan mage rata saha wastu samaga tota
 barayi." "Oyita wada wastu mata tiyanawa mata epa" kiwa. Ema rajjuruwo
 wisin e wastu puja-karanda banak niyama-kala. E bana ahanda ibbage
-[gae]ni saha tawat gænu bana ahanda yanakota anik ena gaenu kiyanawa
-"Ibbæ gaeniye bana ahanda yanda wara." E gihin bana ahana­kota ibba
-ibi hættaya galawala bana ahanda giya. Etakota ibbi gaeni kalpana-kala
-"Maye minihamayi me" kiyala. Kalpana-wela gedara æwadin bælu kala ibi
-hættaya tiyanawa dækala eke tibba wastuwa ænna ema hættaya lipata
-dama bana ahanda giya. Ibbae gaenige miniha gedara æwit bælukota
-ibi hætte nae. Geta wela karabana hitiya. Ibbæ gaeni sellamen gedara
+[gae]ni saha tawat gÃ¦nu bana ahanda yanakota anik ena gaenu kiyanawa
+"IbbÃ¦ gaeniye bana ahanda yanda wara." E gihin bana ahanaÂ­kota ibba
+ibi hÃ¦ttaya galawala bana ahanda giya. Etakota ibbi gaeni kalpana-kala
+"Maye minihamayi me" kiyala. Kalpana-wela gedara Ã¦wadin bÃ¦lu kala ibi
+hÃ¦ttaya tiyanawa dÃ¦kala eke tibba wastuwa Ã¦nna ema hÃ¦ttaya lipata
+dama bana ahanda giya. Ibbae gaenige miniha gedara Ã¦wit bÃ¦lukota
+ibi hÃ¦tte nae. Geta wela karabana hitiya. IbbÃ¦ gaeni sellamen gedara
 awa. Wena gaenu "Ibbae gaenige ada occara tiyana sellama mokadae" kiya
-æsuwa. "Mage sellama gedara gihama dæneyi." Ibbae gaenit samaga wena
-gaenu e wacane balanda ibbæ gaenige gedara awa. Æwadin bælukota ibbæ
+Ã¦suwa. "Mage sellama gedara gihama dÃ¦neyi." Ibbae gaenit samaga wena
+gaenu e wacane balanda ibbÃ¦ gaenige gedara awa. Ã†wadin bÃ¦lukota ibbÃ¦
 gaenige miniha raja kenek samanayi. Me katantaraya hitanawaru dennage.
 
 
@@ -16391,57 +16366,57 @@ NO. 216
 
 THE STORY OF GOLU-BAYIYA
 
-GOLU BAYIYÆ KATHAWA
+GOLU BAYIYÃ† KATHAWA
 
 
 Eka rataka sitiya lu Gonaka Bokka kiyala minihek. E Gona Bokkage
 malayo dasa denek sitiya lu. Malayo dasa dena katha-karala "Apata
-Gona Bokka ayiyagen apata kisi prayojanak næta. Apata wædapala karana
-apata amaruyi. Ekata api dasa dena­tama eka magulak genamu" kiya
+Gona Bokka ayiyagen apata kisi prayojanak nÃ¦ta. Apata wÃ¦dapala karana
+apata amaruyi. Ekata api dasa denaÂ­tama eka magulak genamu" kiya
 hita "Otannapahuwa kiyana gamata yan" kiya gamata bala malaya giya
 lu. E Otannapahuwata magulak ahanta giyaya. Ita passe anik nawa dena
-katha-karanawa lu "Ape ayyata 'Gona Bokka' kiyanakota apata gena gæni
-kiyayi bola Gona Bokka ki[ya]na nama wansa næti ewuntayi kiya. Apata
-gena gæni yayi. Ekata Golu Bayiya kiyamu" kiya. "Ape Golu Bayi ayatat
+katha-karanawa lu "Ape ayyata 'Gona Bokka' kiyanakota apata gena gÃ¦ni
+kiyayi bola Gona Bokka ki[ya]na nama wansa nÃ¦ti ewuntayi kiya. Apata
+gena gÃ¦ni yayi. Ekata Golu Bayiya kiyamu" kiya. "Ape Golu Bayi ayatat
 ape [na]m makanta demu" kiya katha-karagana innawa lu. Etakota kipa
-dawasak maga gewagena hæmatama bala malaya æwit hita kiwa lu "Ayiyanela
-Otannapahuwe mama ahanta giya Gæni nan wanse ho[n]dayi. 'Bala
-pætiyakuta magul denne kawudæ. Wædimal sahodarayinta ekkenakunta
+dawasak maga gewagena hÃ¦matama bala malaya Ã¦wit hita kiwa lu "Ayiyanela
+Otannapahuwe mama ahanta giya GÃ¦ni nan wanse ho[n]dayi. 'Bala
+pÃ¦tiyakuta magul denne kawudÃ¦. WÃ¦dimal sahodarayinta ekkenakunta
 enta kiyapan' kiya-ewwaya." Ita passe e daha dena katha-karanawa lu
-"Api dasa denata wædimal Golu Bayi ayiya magul ahanta arimu" kiyala
-katha-karanawaya. Itin e Golu Bayiya kiyana ætta maha modayek lu. Ita
+"Api dasa denata wÃ¦dimal Golu Bayi ayiya magul ahanta arimu" kiyala
+katha-karanawaya. Itin e Golu Bayiya kiyana Ã¦tta maha modayek lu. Ita
 passe ara dasa dena "Ayye api kiyana deta obat enawa nam api ekolohama
-eka magulak kændagana inta obat warenna" kiyala kata-karanawa lu. Ita
-passe Golu Bayya kiwa lu "Ho[n]dayi mama yaññan" kiya. Bat gedi[ya]k
+eka magulak kÃ¦ndagana inta obat warenna" kiyala kata-karanawa lu. Ita
+passe Golu Bayya kiwa lu "Ho[n]dayi mama yaÃ±Ã±an" kiya. Bat gedi[ya]k
 uyawagana pitat-wela giya lu. Yanawa yanawa. Para no-danna nisa gihun
-galak uda wanantare i[n]dagana bat gediya kæwaya. Kala innakota
-wenin rataka gæniyak duppat wela enta enawa lu para diga. Æwit e
-Golu Bayiya inna gala gawa i[n]da-gattaya. In pasu gæni ahanawa lu
-"Oba koyi rateda koyi gameda" kiya gæeni miniyagen æsuwaya. In pasu
+galak uda wanantare i[n]dagana bat gediya kÃ¦waya. Kala innakota
+wenin rataka gÃ¦niyak duppat wela enta enawa lu para diga. Ã†wit e
+Golu Bayiya inna gala gawa i[n]da-gattaya. In pasu gÃ¦ni ahanawa lu
+"Oba koyi rateda koyi gameda" kiya gÃ¦eni miniyagen Ã¦suwaya. In pasu
 miniya kiwa lu "Mama magulak ahanta Otannapahuwata yanawaya" kiya
-kiwaya. Ita pasu gæni kiyanawa lu "Anicchan dukkhan e game æsu gæni
-mamayi. Mama mage de-mawu-piyo wæræddak-wela pænnuwaya. E nisa mama
-kanta bonda dena tænakata yanawaya" kiwuwaya. In pasu Golu Bayiya "Gæni
+kiwaya. Ita pasu gÃ¦ni kiyanawa lu "Anicchan dukkhan e game Ã¦su gÃ¦ni
+mamayi. Mama mage de-mawu-piyo wÃ¦rÃ¦ddak-wela pÃ¦nnuwaya. E nisa mama
+kanta bonda dena tÃ¦nakata yanawaya" kiwuwaya. In pasu Golu Bayiya "GÃ¦ni
 ho[n]da nisat palamu ahala tiyena nisat mama Otannapahuwata no-gohinma
-kændagana yanda onæya" hita e paredi hamba-wunu gæni kændagana gamata
-awaya. Æwit malayalata kiyanawa "Mama Otannapahuwata giyaya. Malawali
-onna gæni" kiya "siyallatama kændagamu" kiyala kiwaya. Ita pasu anik
-dasa dena nu-dutu nisa eda patan gæni pawagana hitiyaya. Pawagana kipa
+kÃ¦ndagana yanda onÃ¦ya" hita e paredi hamba-wunu gÃ¦ni kÃ¦ndagana gamata
+awaya. Ã†wit malayalata kiyanawa "Mama Otannapahuwata giyaya. Malawali
+onna gÃ¦ni" kiya "siyallatama kÃ¦ndagamu" kiyala kiwaya. Ita pasu anik
+dasa dena nu-dutu nisa eda patan gÃ¦ni pawagana hitiyaya. Pawagana kipa
 dawasak inna atara e bala dasa dena katha-karanawa lu "Ape magul ayiya
-tanikarema kisi kenekma nætuwa kændagana awaya. Ape ayiya kale ho[n]da
-hapankamayi. E nisa api siyalu wædapala karamu. Ape gaeni nilantarayen
-ape Golu Bayi ayiyata rakinta baradi api wædapala karamu. Ayiya
-gæni ræk­apan" kiwaya. "Ho[n]dayi mama rakimi" kiya gæni yana ena
-tænata adi haema tænakata gaeni ya nan e Golu Bayiyat yanawaya. E
+tanikarema kisi kenekma nÃ¦tuwa kÃ¦ndagana awaya. Ape ayiya kale ho[n]da
+hapankamayi. E nisa api siyalu wÃ¦dapala karamu. Ape gaeni nilantarayen
+ape Golu Bayi ayiyata rakinta baradi api wÃ¦dapala karamu. Ayiya
+gÃ¦ni rÃ¦kÂ­apan" kiwaya. "Ho[n]dayi mama rakimi" kiya gÃ¦ni yana ena
+tÃ¦nata adi haema tÃ¦nakata gaeni ya nan e Golu Bayiyat yanawaya. E
 atara ek dawasak wela[n]damata ek miniyek e gamata awaya. E miniyage
-nama Gætapadayaya. E Gætapadaya kipa dawasak ema gedara wela[n]dam
-kara kara ema gedara maduwe sitiyaya. Sitina ataradi ema Gætapadaya
-kiyana miniyata me Golu Bayiyage gæni ek-unaya. E inna atara palamu
-ki dasa dena wædata giya dawasakadi pera ki Golu Bayiyata Gætapadaya
-kiyanne "Mama ada hinayak dutuwaya. Mokada. Asawal tæna pare gonek
-mærila innawa dutuwaya." Eka balala enta Golu Bayiyata Gætapadaya
-kiwaya. Golu Bayiya e gona balanda gi atara Gætapadaya gaenit ænna
-gedara tibu badut æna dennama pala-giyaya. Golu Bayyae katawa.
+nama GÃ¦tapadayaya. E GÃ¦tapadaya kipa dawasak ema gedara wela[n]dam
+kara kara ema gedara maduwe sitiyaya. Sitina ataradi ema GÃ¦tapadaya
+kiyana miniyata me Golu Bayiyage gÃ¦ni ek-unaya. E inna atara palamu
+ki dasa dena wÃ¦data giya dawasakadi pera ki Golu Bayiyata GÃ¦tapadaya
+kiyanne "Mama ada hinayak dutuwaya. Mokada. Asawal tÃ¦na pare gonek
+mÃ¦rila innawa dutuwaya." Eka balala enta Golu Bayiyata GÃ¦tapadaya
+kiwaya. Golu Bayiya e gona balanda gi atara GÃ¦tapadaya gaenit Ã¦nna
+gedara tibu badut Ã¦na dennama pala-giyaya. Golu Bayyae katawa.
 
 
     Tom-tom Beater, Hiriyala Hat-Pattu District, North-Western Province.
@@ -16462,82 +16437,82 @@ ITI ASWAYA
 
 Ekamat eka rataka raja kenekuta putrayek upanna lu. Brahmanayin
 genwa me kumarayage handahana liyawanta baradun wita kumaraya
-wædi-wiya pæmununama rata æra-yanta tibena bawa rajjuruwanta dænun
-dunnama rajjuruwo kumarayawa udu-mahal-tale kamarayaka ita su-rækiwa
-inta sælæssuwa lu. Me ladaru kumaraya taramak loku wi keli-sellam
+wÃ¦di-wiya pÃ¦mununama rata Ã¦ra-yanta tibena bawa rajjuruwanta dÃ¦nun
+dunnama rajjuruwo kumarayawa udu-mahal-tale kamarayaka ita su-rÃ¦kiwa
+inta sÃ¦lÃ¦ssuwa lu. Me ladaru kumaraya taramak loku wi keli-sellam
 adiyehi yedi dawas yawana kalayedi withiye wikunanta gena-yannawu iti
-aswayek dæka uwa aragana denta kiya piya-rajjuruwanta sæla-kala kalhi
-piya-rajjuruwo aswayawa mila di rægena tama putrayata dunna lu. Me
-aswaya piyapat dekakin yuktawu guwanehi igilenta puluwan­kama æti ekek
+aswayek dÃ¦ka uwa aragana denta kiya piya-rajjuruwanta sÃ¦la-kala kalhi
+piya-rajjuruwo aswayawa mila di rÃ¦gena tama putrayata dunna lu. Me
+aswaya piyapat dekakin yuktawu guwanehi igilenta puluwanÂ­kama Ã¦ti ekek
 wiya. Me aswaya gattata pasu swalpa kalayak sita kumaraya taramak loku
 wunama kisiwek-hatawat no-hangawa iti aswayage upakarayen igili yanta
-giya lu. Itin sastrakara-Brahmanayinge kimat sæbae wiya. Kumaraya
+giya lu. Itin sastrakara-Brahmanayinge kimat sÃ¦bae wiya. Kumaraya
 aswayage balayen igilligana gos tawat raja kenekunge maligawata
 mal amuna dena mahalu ammandi kenekuge gedarata giya lu. Mehidi
 iti aswayawa kotanada sangawa mal-ammage gedara sitimin raja gedara
-tora­turu siyallama mal-ammagen asa dæna-gatta lu. Mese dænagana tika
+toraÂ­turu siyallama mal-ammagen asa dÃ¦na-gatta lu. Mese dÃ¦nagana tika
 kalak sita rajjuruwange diyaniyan sitina udu-mahal-tale kamara adiya
-dænagana laksanawu kumarikawak sitina kamarayakata ratri kalayedi
+dÃ¦nagana laksanawu kumarikawak sitina kamarayakata ratri kalayedi
 iti aswayagen gos kumarikawata genat tibuna kaema bimadiya ka bi
 kipa dawasakma no-hangawa yanta giya lu. Kumarikawada kamarayata ae
-nida-gattata pasu kawuru-namut æwit gihin tibena bawa dæna pasuwa da
-no-nida bala sitiya lu. Ewita kumaraya æwit kaema bimadiya anubhawa
+nida-gattata pasu kawuru-namut Ã¦wit gihin tibena bawa dÃ¦na pasuwa da
+no-nida bala sitiya lu. Ewita kumaraya Ã¦wit kaema bimadiya anubhawa
 karana-kota kumari kaduwa eka atakin aragana kumarayawa eka atakin
-alwagena "Topa kawudæyi" kiya æsuwa lu. Kumarayat raja pawulakata ayiti
+alwagena "Topa kawudÃ¦yi" kiya Ã¦suwa lu. Kumarayat raja pawulakata ayiti
 kenek bawa danwa ae samaga katha-bas-kota yalu-wi aewa kara-kara
 bandintat giwisagana ita pasuwa dawaswaladit enta patan-gatta
 lu. Itin me kumariwa saema dawaswalama udeta kirana siritak tibuna
 lu. Kumaraya enta wunata pasuwa dawaswaladi kumarige bara kramayen
-wædi-wegana gos ae bada-gæbbarin siti bawa rajjuruwo dænagana kumari
-samaga amatyayage mitra-satthawayak ætæyi sita amatyayawa maranta
-niyama-kala lu. Amatyayada ita sokayata pæmina sitina kalayedi
-rajjuruwange anikut duru æwi[t] "Ita sokayakin sitinne mandæyi"
-kiya ama­tyayagen æsu wita siyalu toraturuma owunta dænun dunna
-lu. E kumarikawan ræs-wi æmættayawa galawana pinisa mese upakramayak
-yeduwa lu enam amatyayage nam dosayak næta kawuru-namut pita-kenek
-mona upakramayakin namut kumari samipayata enawa ætæyi sita nana
-suwanda pæn oruwe wisa dama raja wasala doratuwe tibena pokune mura
-tibba lu. Kumaraya æwit kumarige kamareta yanta prathama suwanda pæn
-naewama ohuta wisa pattu-wi duwagana gos pokune pænnama murakarayo
+wÃ¦di-wegana gos ae bada-gÃ¦bbarin siti bawa rajjuruwo dÃ¦nagana kumari
+samaga amatyayage mitra-satthawayak Ã¦tÃ¦yi sita amatyayawa maranta
+niyama-kala lu. Amatyayada ita sokayata pÃ¦mina sitina kalayedi
+rajjuruwange anikut duru Ã¦wi[t] "Ita sokayakin sitinne mandÃ¦yi"
+kiya amaÂ­tyayagen Ã¦su wita siyalu toraturuma owunta dÃ¦nun dunna
+lu. E kumarikawan rÃ¦s-wi Ã¦mÃ¦ttayawa galawana pinisa mese upakramayak
+yeduwa lu enam amatyayage nam dosayak nÃ¦ta kawuru-namut pita-kenek
+mona upakramayakin namut kumari samipayata enawa Ã¦tÃ¦yi sita nana
+suwanda pÃ¦n oruwe wisa dama raja wasala doratuwe tibena pokune mura
+tibba lu. Kumaraya Ã¦wit kumarige kamareta yanta prathama suwanda pÃ¦n
+naewama ohuta wisa pattu-wi duwagana gos pokune pÃ¦nnama murakarayo
 ohuwa alla-gatta lu. Me kumarayawa alwagana gos rajjuruwanta karana
-terum kara-dunnama æmættayawa bera kumarayawa maranta niyama-kala
+terum kara-dunnama Ã¦mÃ¦ttayawa bera kumarayawa maranta niyama-kala
 lu. Kumarayawa wada-karuwo genayana wita "Mage wastuwak tibenawaya
-eka topata aragana dennan (sic)" kiya gahakata nægi ehi kola aturehi
+eka topata aragana dennan (sic)" kiya gahakata nÃ¦gi ehi kola aturehi
 palamuwen taba sangawa tibuna iti aswayawa aragana igilli-diwwa
-lu. Mese madak dura gos næwati ratri kalayehi næwatat raja wasalata
-æwit kumariyawat anda-gasagana maha wanantarayak mædin yanakota
-kumarita bada-rudawa sædunama bimata bæsa aewa nawatwa ita onae karana
-behet adi upakarana gena ena pinisa swamipa grama­yakata gos iti
+lu. Mese madak dura gos nÃ¦wati ratri kalayehi nÃ¦watat raja wasalata
+Ã¦wit kumariyawat anda-gasagana maha wanantarayak mÃ¦din yanakota
+kumarita bada-rudawa sÃ¦dunama bimata bÃ¦sa aewa nawatwa ita onae karana
+behet adi upakarana gena ena pinisa swamipa gramaÂ­yakata gos iti
 aswayawa kadayak langa taba tawat kadekata gihin enakota kade langa
 gindarak tibi iti aswayawa diya-wi gos tibuna dutuwa lu. Iti aswaya
-næti-wunayin pasu kumariya siti tænata me kumarayata yanta bæri-wuna
+nÃ¦ti-wunayin pasu kumariya siti tÃ¦nata me kumarayata yanta bÃ¦ri-wuna
 lu. Kumarida wanantrayedi putrayek wada "Asat-purusawu kumarayage
 putrayawat mata epaya" kiyala daruwawat dama gam samipayakata ae
 giya lu. Me kumarige piya wanantaraye dadayamata giya kalayedi me
-ladaruwawa sambhawi raja gedarata genat æti-kala lu. Me ladaruwage
-maw wana kumarikawi kanya pantiyakata bændi wasaya-karana kalayedi
-me æti-karagatta lamaya wædi-wiya pæmina saranayak soya gos tamagema
-maeniyo dæka aewa kara-kara bandinta adahas kala lu. Mese sita tun
+ladaruwawa sambhawi raja gedarata genat Ã¦ti-kala lu. Me ladaruwage
+maw wana kumarikawi kanya pantiyakata bÃ¦ndi wasaya-karana kalayedi
+me Ã¦ti-karagatta lamaya wÃ¦di-wiya pÃ¦mina saranayak soya gos tamagema
+maeniyo dÃ¦ka aewa kara-kara bandinta adahas kala lu. Mese sita tun
 dawasakma sarana wicaranta yanta pitat-wuna wita marggayedi bada
-wi tun dawasedima hæri awa lu. Eka dawasak aswaya pita nægi sarana
-wicaranta yana gamanedi kurul pætaw wagayak aswayata paegi kirilli
-kumarayata mese bænna lu enam "Mu muge mo ganta yanawa madiwata mage
-pætaw tikat mara-dæmmaya" kiya bænna lu. Me dawasedi bada wuna nisa
-apasu hæri æwit ita pasuwa da giya lu. Eda yanakota elu pætiyekwa
-aswayata paegi eludenat "Muge amma ganta yanawa madiwata ape pætaw
-mara-dæmuwaya" kiya bænna lu. Tunweni dawasedit yanakota pera sema
+wi tun dawasedima hÃ¦ri awa lu. Eka dawasak aswaya pita nÃ¦gi sarana
+wicaranta yana gamanedi kurul pÃ¦taw wagayak aswayata paegi kirilli
+kumarayata mese bÃ¦nna lu enam "Mu muge mo ganta yanawa madiwata mage
+pÃ¦taw tikat mara-dÃ¦mmaya" kiya bÃ¦nna lu. Me dawasedi bada wuna nisa
+apasu hÃ¦ri Ã¦wit ita pasuwa da giya lu. Eda yanakota elu pÃ¦tiyekwa
+aswayata paegi eludenat "Muge amma ganta yanawa madiwata ape pÃ¦taw
+mara-dÃ¦muwaya" kiya bÃ¦nna lu. Tunweni dawasedit yanakota pera sema
 bada wuna lu. Me kumaraya mese kanya pantiyenma saranayak sewwe
-ohu hadagat purusayek nisa kisikenek sarana no-dena bæwinya. Mita
-pera eka dawasak sellam­paledi "Awajatakayayayi" anikut lamayin
-wisin kiwama ohuwa æti-karagatta rajjuruwangen ohuge de-maw-piyo
-koyidæyi asa wanantaraye sita ohuwa genat hadagat bawa dænagana
-tibuna lu. Itin tunweni dawasedit bada wela e gæna no-salaka sarana
-wicaranta gos tamage maeniyo bawa madakwat no-dæna aege utpattiye sita
+ohu hadagat purusayek nisa kisikenek sarana no-dena bÃ¦winya. Mita
+pera eka dawasak sellamÂ­paledi "Awajatakayayayi" anikut lamayin
+wisin kiwama ohuwa Ã¦ti-karagatta rajjuruwangen ohuge de-maw-piyo
+koyidÃ¦yi asa wanantaraye sita ohuwa genat hadagat bawa dÃ¦nagana
+tibuna lu. Itin tunweni dawasedit bada wela e gÃ¦na no-salaka sarana
+wicaranta gos tamage maeniyo bawa madakwat no-dÃ¦na aege utpattiye sita
 kanya pantiyata a kalaya dakwa waga tu[n]ga asa "Wanantaraye ahawal
 palatedi samba-wi tibenne mawa tamayi e nisa me mage maeniyo tamayi"
-kiya. Dænagana aranci karagana gos tamage piyawat soyagana æwit
+kiya. DÃ¦nagana aranci karagana gos tamage piyawat soyagana Ã¦wit
 ohuge siyawu hewat ohuge maeniyange piya wana rajjuruwange aewaemen
-rajjayatada pat-wi raja pawulakin kara-kara bænda yahatin kal yæwwa lu.
+rajjayatada pat-wi raja pawulakin kara-kara bÃ¦nda yahatin kal yÃ¦wwa lu.
 
 
                                             Ratmalana, Western Province.
@@ -16859,7 +16834,7 @@ their cook to kill the person who brought a message, and sent a
 Brahmana with it. On the way, the King's son told him to get a pair
 of ear-rings made, took the message, and was killed by the cook.
 
-In the Kathakoça, p. 172, a merchant who wished to get a youth killed,
+In the KathakoÃ§a, p. 172, a merchant who wished to get a youth killed,
 sent him with a letter to his son ordering poison (vishan) to be
 given to him. While the youth was asleep in the temple of the God
 of Love, the merchant's daughter Visha came there, read the letter,
@@ -17069,7 +17044,7 @@ and at last divided the fruit equally.
 
 Page 275, line 20. For Rakshasi read Rakshasi.
 
-Page 277. In The Kathakoça (Tawney), p. 164, a Prince whose eyes had
+Page 277. In The KathakoÃ§a (Tawney), p. 164, a Prince whose eyes had
 been plucked out heard a Bharunda bird tell its young one that if
 the juice of a creeper growing at the root of the Banyan tree under
 which he sat were sprinkled on the eyes of a blind Princess she would
@@ -17200,7 +17175,7 @@ and became a powerful man.
 
 Page 315. In China it is believed that only wicked persons are struck
 by lightning. Doolittle's Social Life of the Chinese (Paxton Hood),
-p. 557. In The Kathakoça, p. 159, three persons who expressed evil
+p. 557. In The KathakoÃ§a, p. 159, three persons who expressed evil
 thoughts were struck by lightning. In Cinq Cents Contes et Apologues,
 vol. i, p. 104, a Queen who caused the Bodhisatta, in the form of an
 elephant, to be destroyed in order that she might have his tusks,
@@ -17282,7 +17257,7 @@ to re-enter the house, shut the door, and left it to die of starvation.
 In Reynard the Fox in Southern Africa, p. 11, there is a Hottentot
 variant. A white man saved a snake's life by removing a stone that
 had fallen on it. When it was about to bite him it agreed to obtain
-the opinions of some wise people. A hyæna when asked replied, "What
+the opinions of some wise people. A hyÃ¦na when asked replied, "What
 would it matter?" A jackal when questioned about the matter refused to
 believe that the snake would be unable to rise when under the stone,
 got the man to replace the stone on it, and then told him to leave
@@ -17477,11 +17452,11 @@ The Thirty-two Tortures.
 25. Katu-bere peralima. Rolling [the person] in the drum containing
     thorns.
 26. Sakrame karakaerima. Turning [the person] round on the wheel.
-27. Æsak uguluwa anik aesata penwima. Plucking out an eye, and showing
+27. Ã†sak uguluwa anik aesata penwima. Plucking out an eye, and showing
     it to the other eye.
-28. Æha maeda yahul gasa karakaewima. Striking an iron pin into the
+28. Ã†ha maeda yahul gasa karakaewima. Striking an iron pin into the
     middle of the eye, and turning it round.
-29. Ænga-mas kapa baeda kaewima. Cutting off the flesh of the body,
+29. Ã†nga-mas kapa baeda kaewima. Cutting off the flesh of the body,
     frying it, and making [the person] eat it.
 30. Buta-seyyawen hinduwa nul gasa waeyen saehima. Setting [the person]
     in the attitude in which goblins recline (i.e., on the back),
@@ -17552,33 +17527,33 @@ or watch, is one of four hours, but the Swapna-malaya makes it three:--
 
 Page 213. Regarding the Ridi, Tavernier remarked (Voyages, 1679, i,
 p. 589), "This money is called Larin, and is of the same standard
-as our écus. Five pieces are worth our écu." On p. 591, vol. ii, he
+as our Ã©cus. Five pieces are worth our Ã©cu." On p. 591, vol. ii, he
 noted that, "The rupee of gold ... is worth in the country [India]
 fourteen rupees of silver. We reckon the rupee of silver at thirty
 sols. Thus the rupee of gold comes to 21 livres of France.... All the
 gold and silver which enters on the lands of the Great Mogol is refined
-to the highest standard (au dernier tître) before being coined."
+to the highest standard (au dernier tÃ®tre) before being coined."
 
 Our sovereign contains 113 grains of fine gold; and as the full
 weight of the gold rupee or muhr (mohur) of the Mughal rulers was
-175 grains, its full value as fine gold was £1 11s. of our money. At
+175 grains, its full value as fine gold was Â£1 11s. of our money. At
 the mean weight of the gold (167.22 grs.) in 46 coins, as recorded in
-Hobson-Jobson, p. 438, the value would be £1 9s. 7 1/4d. By Tavernier's
-reckoning (at 21 livres) the full value was £1 11s. 6d. One-fourteenth
-of £1 11s. is 26.57d.; this was therefore the value of the silver
+Hobson-Jobson, p. 438, the value would be Â£1 9s. 7 1/4d. By Tavernier's
+reckoning (at 21 livres) the full value was Â£1 11s. 6d. One-fourteenth
+of Â£1 11s. is 26.57d.; this was therefore the value of the silver
 rupee of the Mughals, which had the same weight as the gold coin. With
-the muhr at £1 11s. 6d. the value of the rupee would be 2s. 3d. At
+the muhr at Â£1 11s. 6d. the value of the rupee would be 2s. 3d. At
 26.57/30d., the French sol was worth 0.885d. Bernier remarked (Travels,
 Constable's translation, p. 200) that the value of the silver rupee was
 about 30 sols, and on p. 223, about 29 sols, Tavernier also agreeing
 that the actual value should be under 30 sols; in the latter case the
 sol would be equal to 0.916d. Taking the average value at 0.9d., and
 20 sols to a livre, the value of the livre was 1s. 6d. Three livres
-were equal to one écu (4s. 6d.), one-fifth of which, as noted above,
+were equal to one Ã©cu (4s. 6d.), one-fifth of which, as noted above,
 would make the value of the larin 10.8d. This was not an accurate
 estimate of its value, since according to Tavernier (i, p. 136) 46
 livres 1 1/2 deniers (each = one-twelfth of a sol) were the exact
-equivalent of a Persian toman of that period, which was thus worth £3
+equivalent of a Persian toman of that period, which was thus worth Â£3
 9s. 2 1/4d. of our money; and as 80 larins made one toman (i, p. 136;
 ii, p. 590) the true value of the larin in Persia (and India) in the
 middle of the seventeenth century was 10.375d. This would require the
@@ -17707,7 +17682,7 @@ tall trees planted by him. He prepared some exquisite food for them
 with which they satiated themselves, afterwards vomiting pearls that
 covered the whole ground. He collected them, and became very wealthy.
 
-Page 238, line 11. For paelas read hæliyas (large pots); and delete
+Page 238, line 11. For paelas read hÃ¦liyas (large pots); and delete
 the following note in brackets.
 
 Page 257, first note. See also Campbell's Santal Folk Tales, pp. 8
@@ -17906,7 +17881,7 @@ I am not aware that deer act thus. (See Tennent's Nat. Hist., p. 285.)
 
 [11]  Ketupa ceylonensis. The tree is Hemicyclia sepiaria.
 
-[12] The Sinhalese names are, Muna-Rawana, Pari-kewulla, Dik­aetaya,
+[12] The Sinhalese names are, Muna-Rawana, Pari-kewulla, DikÂ­aetaya,
 Goluwa, Atawanna, Nadakara-Panikkiya, Baka-modaya.
 
 [13]  The ordinary call of this Fish-Owl; to be sounded through
@@ -17949,7 +17924,7 @@ cries of the small frogs, and the second the deeper and slower calls
 of the larger frogs.
 
 [26] In Cinq Cents Contes et Apologues (Chavannes), vol. iii, p. 115,
-the King of the demons is called Pañcika. Professor Chavannes noted
+the King of the demons is called PaÃ±cika. Professor Chavannes noted
 that in the Divyavadana, p. 447, he has the title Yaksha-senapati,
 General of the Yakshas.
 
@@ -18065,7 +18040,7 @@ the wedding itself. In a story not published we have, haya denekuta
 mangul genat innawa, for six persons brides have been brought.
 
 [61] The yala being twenty amunas, the total area was the extent
-that would be sown with 1,212 amunas, each being six bushels (or 5·7
+that would be sown with 1,212 amunas, each being six bushels (or 5Â·7
 bushels in the district where the story was related). At two and a
 half bushels per acre this would be about 2,900 acres.
 
@@ -18097,7 +18072,7 @@ kind of sarcastic talk is very common in the villages.
 [70] Compare the similar account on p. 296, vol. i. In Clough's
 Dictionary, Giju-lihiniya (lit., Vulture-glider or hawk) is termed
 Golden Eagle, a bird which is not found in India or Ceylon. Apparently
-the word is a synonym of Rukh (the Æt-kanda Lihiniya), which in
+the word is a synonym of Rukh (the Ã†t-kanda Lihiniya), which in
 the second note, p. 300, vol. i, is said to be "of the nature
 of vultures." In Man, vol. xiii, p. 73, Captain W. E. H. Barrett
 published an A'Kikuyu (East African) story in which when a man took
@@ -18168,7 +18143,7 @@ child if there be one, or "she of ours," or merely "she."
 
 [95] Daekun tibbata passe.
 
-[96] Awot enne nae; nawot eññan.
+[96] Awot enne nae; nawot eÃ±Ã±an.
 
 [97] Because Kitul fibre is like hair which is hanging loose.
 
@@ -18234,7 +18209,7 @@ course the deities required only the essence.
 [123] That is, three and a half times the extent usually cleared by
 one man for the season's crop.
 
-[124] Æddeya. See note, vol. i, p. 193.
+[124] Ã†ddeya. See note, vol. i, p. 193.
 
 [125] Lit., it is not for me to stay.
 
@@ -18357,7 +18332,7 @@ would be able to destroy the persons engaged in the business.
 
 [166] Kollanta himin.
 
-[167] Æwadin ahakwela.
+[167] Ã†wadin ahakwela.
 
 [168] Probably Gaja-Bahu I, A.D. 113-135.
 
@@ -18385,7 +18360,7 @@ of the hare's foot, or a snort, perhaps.
 
 [179] Hadagat purushayek.
 
-[180] Mesopotamian Archæology (Handcock), pp. 295, 329.
+[180] Mesopotamian ArchÃ¦ology (Handcock), pp. 295, 329.
 
 [181] Tun-mulu-Toppiya, the one with the three-cornered hat.
 
@@ -18408,7 +18383,7 @@ kadawal ganema, vol. i, p. 86, line 17.
 [188] Issara weccahama.
 
 [189] Umbalat ekkenek mage ina gawin alla-ganilla (hon. pl.); gawin,
-"near," is commonly used for "at" or "by," as in ata gawin alla­gana,
+"near," is commonly used for "at" or "by," as in ata gawin allaÂ­gana,
 seizing the hand (vol. i, p. 127, line 23).
 
 [190] A breed of black fowls is considered to have the tenderest
@@ -18472,7 +18447,7 @@ below. See Nos. 191 and 210. For the text of the sentence see p. 416.
 [208] Evidently a post in which he had the title of Raja, and not
 the general government of the whole country. A ruler termed "the
 Eastern King" (Pacina Raja) is mentioned in an early inscription
-(Dr. Müller's, No. 34A); as no such title is found in the histories,
+(Dr. MÃ¼ller's, No. 34A); as no such title is found in the histories,
 he may have been a district governor. The hero of this story appears
 to have received a somewhat similar post.
 
@@ -18539,7 +18514,7 @@ sword was placed.
 [233] It is evident that some kahawanas were golden ones. See also
 vol. i, p. 348, and the Appendix, p. 454.
 
-[234] In the MS. the words are gañga-pahalata, 'down the river,'
+[234] In the MS. the words are gaÃ±ga-pahalata, 'down the river,'
 an evident mistake, as the hair passed down with the current.
 
 [235] The Sinhalese title is, "The Royal Prince and the
@@ -18569,7 +18544,7 @@ playing tricks on a farmer and had burnt his house down.
 
 [245] Anda bera gaesuwaya, beat the proclamation tom-toms.
 
-[246] Ambuñda gahagana.
+[246] AmbuÃ±da gahagana.
 
 [247] Ceylon was formerly sometimes termed Tri-Sinhala, because it
 was divided into three districts, Pihiti-rata, the northern part,
@@ -18586,7 +18561,7 @@ and is represented in the frontispiece to Ancient Ceylon.
 
 [250] Welawe ho awelawe ho.
 
-[251] Æt-muhunin bat munu bindinta epaya.
+[251] Ã†t-muhunin bat munu bindinta epaya.
 
 [252] Because he thought the elephant was supernaturally prevented
 from killing him.
@@ -18711,7 +18686,7 @@ in the plural number, and wastuwa as "wealth."
 [301] Ambude gahagantawat. Compare p. 297, note.
 
 [302] Up to this point the story is a variant of the tale called
-"Sigiris Siñño the Giant," in vol. i, p. 312.
+"Sigiris SiÃ±Ã±o the Giant," in vol. i, p. 312.
 
 [303] The meaning is, "Can you take my war army and defeat the
 enemies?" To express this in Sinhalese the narrator should have said,
@@ -18792,7 +18767,7 @@ and a country pony was bought for fifty.
 
 [334]  A pound of copper was priced at 9.8d. of our money; the present
 wholesale values (July 9, 1914) are--silver, 25 7/8d. per oz. (Troy);
-copper, £62 5s. per ton, the ratio being 41.566.
+copper, Â£62 5s. per ton, the ratio being 41.566.
 
 [335] Numismatic Chronicle, 1895, p. 221.
 
@@ -18813,367 +18788,4 @@ refer to a necessary natural function.
 End of the Project Gutenberg EBook of Village Folk-Tales of Ceylon (Volume 3
 of 3), by H. Parker
 
-*** END OF THIS PROJECT GUTENBERG EBOOK VILLAGE FOLK-TALES OF CEYLON, VOL 3 ***
-
-***** This file should be named 58889-8.txt or 58889-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/8/8/8/58889/
-
-Produced by Jeroen Hellingman and the Online Distributed
-Proofreading Team at http://www.pgdp.net/ for Project
-Gutenberg (This file was produced from images generously
-made available by The Internet Archive/American Libraries.)
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
-
-
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 58889 ***
